@@ -25,7 +25,7 @@ HandLength = None
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 #while( True ):
-imr = '1.jpg'
+imr = '../Dataset/2.jpg'
 img = cv2.imread(imr,1) 
 h, w = img.shape[:2] 
 print h 
