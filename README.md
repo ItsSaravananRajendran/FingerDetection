@@ -4,7 +4,7 @@
 An opencv based program to classify the fingers in palm. This can be used for gesture recognization.
 
 # Results
-![Screenshot of the Result](https://github.com/thunderbo1t/FingerDetection/Dataset/result.png)
+![Screenshot of the Result](https://github.com/thunderbo1t/FingerDetection/blob/master/Dataset/result.png)
 
 # Shortcoming
 Does not perform well images with noisy background.
