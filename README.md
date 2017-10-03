@@ -13,3 +13,4 @@ Does not perform well images with noisy background.
 
 [Hand gesture recognition using a neural network shape fitting techniqueHand gesture recognition using a neural network shape fitting technique](https://dl.acm.org/citation.cfm?id=1651954)
 
+[Hand detection using multiple proposals](https://www.robots.ox.ac.uk/~vgg/publications/2011/Mittal11/mittal11.pdf)
