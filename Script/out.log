@@ -1,0 +1,4422 @@
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (319, 239)
+EXCEPTION IN (hand.py, LINE 88 "wristCountor = maxCont(wristCountors)"): local variable 'ci' referenced before assignment
+
+
+
+
+
+
+
+PalmCentre = (425, 208)
+Slope = 16.1454616227
+Paired points =  [[(1, 225), (29, 90)]]
+All paired : [[(1, 225), (29, 90), (31, 80.35714285714289)]]
+Radius =  205.642894358
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (483, 162)
+Slope = 74.8157951935
+Paired points =  [[(434, 478), (566, 456)], [(94, 7), (174, 16)]]
+All paired : [[(434, 478), (566, 456), (563, 456.50000000000006)], [(94, 7), (174, 16), (563, 59.762499999999996)]]
+Radius =  153.844076909
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (517, 141)
+Slope = 79.3463526537
+Paired points =  [[(638, 478), (561, 418)], [(272, 40), (299, 22)]]
+All paired : [[(638, 478), (561, 418), (561, 418.0)], [(272, 40), (299, 22), (561, -152.66666666666669)]]
+Radius =  118.473625757
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (480, 329)
+Slope = -80.7085894807
+Paired points =  [[(411, 1), (536, 34)]]
+All paired : [[(411, 1), (536, 34), (527, 31.624000000000009)]]
+Radius =  145.340978392
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (516, 367)
+Slope = -78.6240195028
+Paired points =  [None, [(475, 2), (564, 95)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (534, 366)
+Slope = -75.6638910869
+Paired points =  [[(478, 1), (579, 86)]]
+All paired : [[(478, 1), (579, 86), (585, 91.049504950495077)]]
+Radius =  101.513545894
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (553, 377)
+Slope = -76.8941144215
+Paired points =  [[(385, 2), (574, 92)]]
+All paired : [[(385, 2), (574, 92), (592, 100.57142857142856)]]
+Radius =  84.7584804017
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (565, 381)
+Slope = -84.2913300217
+Paired points =  [None, [(264, 2), (535, 98)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (548, 90)
+Slope = 76.0022864523
+Paired points =  [[(638, 478), (568, 377)], [(247, 4), (351, 21)]]
+All paired : [[(638, 478), (568, 377), (589, 407.30000000000007)], [(247, 4), (351, 21), (589, 59.90384615384616)]]
+Radius =  84.3860177992
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (539, 103)
+Slope = 76.2285675432
+Paired points =  [[(638, 478), (556, 387)], [(1, 12), (282, 18)]]
+All paired : [[(638, 478), (556, 387), (583, 416.96341463414626)], [(1, 12), (282, 18), (583, 24.427046263345197)]]
+Radius =  92.1954445729
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (558, 397)
+Slope = -83.2278400786
+Paired points =  [[(197, 1), (513, 100)]]
+All paired : [[(197, 1), (513, 100), (577, 120.0506329113924)]]
+Radius =  80.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (548, 385)
+Slope = -83.5592873047
+Paired points =  [None, [(263, 2), (519, 94)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (544, 378)
+Slope = -82.1776357637
+Paired points =  [None, [(319, 2), (528, 91)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (551, 389)
+Slope = -83.3324091723
+Paired points =  [None, [(299, 2), (525, 99)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (533, 109)
+Slope = 77.5104868044
+Paired points =  [[(638, 478), (550, 397)], [(172, 1), (303, 18)]]
+All paired : [[(638, 478), (550, 397), (577, 421.85227272727275)], [(172, 1), (303, 18), (577, 53.557251908396942)]]
+Radius =  101.118742081
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (594, 420)
+Slope = -82.668142864
+Paired points =  [[(390, 1), (576, 138)]]
+All paired : [[(390, 1), (576, 138), (605, 159.36021505376345)]]
+Radius =  43.0813184571
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (202, 366)
+Slope = 44.0983106114
+Paired points =  [[(427, 477), (370, 456)], [(43, 240), (71, 234)], [(117, 140), (142, 182)]]
+All paired : [[(427, 477), (370, 456), (76, 347.68421052631584)], [(43, 240), (71, 234), (76, 232.92857142857144)], [(117, 140), (142, 182), (76, 71.11999999999999)]]
+Radius =  86.2670273048
+MULTIPOINT (86.54749746157459 351.5701306437381, 299.2856636984066 429.9473497836235)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (466, 378)
+Slope = -17.693361807
+Paired points =  [[(311, 349), (302, 294)], None, None, [(142, 2), (529, 125)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (550, 402)
+Slope = -75.5181354578
+Paired points =  [[(352, 387), (369, 375)], None, None, [(239, 1), (537, 102)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (582, 422)
+Slope = 0.0
+Paired points =  [[(375, 401), (425, 376)], None, [(267, 1), (546, 117)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (563, 75)
+Slope = 77.2348887318
+Paired points =  [[(638, 478), (535, 356)], [(261, 1), (386, 22)]]
+All paired : [[(638, 478), (535, 356), (593, 424.69902912621365)], [(261, 1), (386, 22), (593, 56.776000000000003)]]
+Radius =  68.1175454637
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (525, 424)
+Slope = -23.0511219163
+Paired points =  [[(365, 348), (393, 359)], None, None, [(638, 478), (554, 142)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (559, 69)
+Slope = 72.6828224572
+Paired points =  [[(365, 352), (537, 354)], [(222, 1), (373, 19)]]
+All paired : [[(365, 352), (537, 354), (599, 354.72093023255815)], [(222, 1), (373, 19), (599, 45.940397350993379)]]
+Radius =  67.2309452559
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (559, 67)
+Slope = 70.7665812424
+Paired points =  [[(638, 478), (538, 354)], [(198, 1), (365, 18)]]
+All paired : [[(638, 478), (538, 354), (602, 433.36000000000001)], [(198, 1), (365, 18), (602, 42.125748502994014)]]
+Radius =  65.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (556, 66)
+Slope = 67.1341676335
+Paired points =  [[(638, 478), (538, 354)], [(154, 1), (354, 18)]]
+All paired : [[(638, 478), (538, 354), (605, 437.08000000000004)], [(154, 1), (354, 18), (605, 39.335000000000001)]]
+Radius =  62.8171950982
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (584, 425)
+Slope = 0.0
+Paired points =  [[(384, 395), (435, 381)], None, [(135, 1), (530, 113)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (582, 422)
+Slope = 0.0
+Paired points =  [[(352, 354), (430, 379)], None, [(141, 1), (530, 111)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (552, 421)
+Slope = 1.30261304188
+Paired points =  [[(349, 350), (423, 371)], None, [(149, 1), (534, 124)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (538, 413)
+Slope = -60.4068749601
+Paired points =  [None, None, None, [(140, 1), (531, 109)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (538, 406)
+Slope = -64.2115605505
+Paired points =  [None, None, None, None, [(125, 1), (527, 96)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (537, 399)
+Slope = -66.1084734207
+Paired points =  [None, None, None, None, [(139, 1), (523, 85)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (536, 383)
+Slope = -69.0853218436
+Paired points =  [[(303, 428), (341, 422)], None, None, None, [(177, 1), (522, 64)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (535, 377)
+Slope = -69.0390074827
+Paired points =  [[(300, 416), (329, 407)], None, None, None, [(215, 1), (529, 59)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (534, 372)
+Slope = -69.3805686154
+Paired points =  [[(291, 401), (323, 394)], None, None, None, [(250, 2), (537, 59)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (536, 362)
+Slope = -68.8138003236
+Paired points =  [[(293, 372), (326, 368)], None, None, None, [(349, 1), (562, 60)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (536, 356)
+Slope = -68.5493082609
+Paired points =  [[(296, 356), (327, 351)], [(327, 162), (365, 200)], None, None, [(393, 1), (579, 64)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (531, 350)
+Slope = -68.4870545747
+Paired points =  [[(294, 336), (320, 331)], [(325, 150), (361, 184)], None, None, [(443, 1), (595, 71)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (509, 313)
+Slope = -75.0504854266
+Paired points =  [[(291, 93), (312, 121)], None, [(383, 26), (397, 61)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (499, 312)
+Slope = -76.8917384592
+Paired points =  [[(216, 280), (228, 269)], [(264, 78), (288, 107)], None, [(357, 12), (373, 46)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (433, 290)
+Slope = 17.1114037215
+Paired points =  [[(196, 271), (231, 263)], [(245, 69), (283, 118)], None, None, [(339, 6), (363, 67)], [(442, 1), (586, 227)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (420, 282)
+Slope = 26.0589790923
+Paired points =  [[(186, 269), (221, 258)], [(229, 69), (269, 115)], None, None, [(324, 4), (346, 63)], [(479, 1), (583, 253)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (410, 278)
+Slope = 42.1974320105
+Paired points =  [[(179, 268), (215, 256)], [(219, 70), (259, 115)], None, None, [(312, 5), (335, 65)], [(533, 1), (581, 292)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (407, 277)
+Slope = 51.3107923692
+Paired points =  [[(177, 268), (214, 256)], [(214, 74), (256, 117)], None, None, [(307, 7), (330, 66)], [(529, 1), (580, 297)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (407, 278)
+Slope = 57.6916112511
+Paired points =  [[(180, 269), (215, 258)], [(215, 77), (256, 120)], None, None, [(305, 12), (329, 70)], [(513, 1), (580, 294)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (410, 280)
+Slope = 60.8422153404
+Paired points =  [[(183, 271), (219, 259)], [(219, 79), (259, 123)], None, None, [(310, 14), (332, 73)], [(512, 1), (581, 297)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (410, 279)
+Slope = 55.7545596518
+Paired points =  [[(184, 268), (220, 257)], [(220, 77), (260, 121)], None, None, [(310, 14), (334, 72)], [(505, 1), (580, 297)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (408, 278)
+Slope = 54.7763635236
+Paired points =  [[(181, 267), (217, 255)], [(219, 75), (259, 120)], None, None, [(309, 13), (333, 70)], [(503, 1), (579, 293)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (407, 279)
+Slope = 57.2099190699
+Paired points =  [[(180, 268), (216, 257)], [(217, 78), (257, 122)], None, None, [(310, 13), (331, 72)], [(497, 1), (580, 289)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (406, 280)
+Slope = 72.9342455852
+Paired points =  [[(180, 269), (216, 257)], [(217, 78), (257, 122)], None, None, [(307, 15), (331, 73)], [(496, 1), (580, 289)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (409, 280)
+Slope = 56.0455243111
+Paired points =  [[(183, 269), (218, 257)], [(219, 77), (259, 122)], None, None, [(312, 13), (333, 73)], [(493, 1), (581, 289)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (408, 277)
+Slope = 58.583463417
+Paired points =  [[(181, 266), (218, 255)], [(218, 79), (258, 120)], None, None, [(310, 13), (332, 71)], [(492, 1), (579, 289)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (407, 273)
+Slope = 74.53075574
+Paired points =  [[(180, 260), (215, 251)], [(216, 75), (256, 115)], None, None, [(309, 8), (330, 65)], [(490, 1), (579, 288)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (409, 267)
+Slope = 74.0921656695
+Paired points =  [[(178, 254), (214, 245)], [(215, 64), (255, 107)], None, [(638, 1), (577, 287)], None, [(305, 1), (331, 57)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (417, 260)
+Slope = 30.979461799
+Paired points =  [[(180, 245), (214, 236)], [(217, 52), (259, 95)], None, [(638, 1), (578, 284)], None, [(305, 1), (338, 49)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (491, 264)
+Slope = 38.6488764013
+Paired points =  [[(181, 234), (203, 223)], [(219, 38), (252, 67)], [(638, 1), (614, 11)], [(315, 1), (337, 18)]]
+All paired : [[(181, 234), (203, 223), (262, 193.5)], [(219, 38), (252, 67), (262, 75.787878787878782)], [(638, 1), (614, 11), (262, 157.66666666666669)], [(315, 1), (337, 18), (262, -39.954545454545467)]]
+Radius =  143.542676581
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (490, 252)
+Slope = 39.6255878293
+Paired points =  [[(180, 225), (204, 213)], [(220, 20), (253, 51)], [(323, 1), (343, 10)]]
+All paired : [[(180, 225), (204, 213), (264, 183.0)], [(220, 20), (253, 51), (264, 61.333333333333314)], [(323, 1), (343, 10), (264, -25.549999999999997)]]
+Radius =  143.627991701
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (491, 244)
+Slope = 40.0743494402
+Paired points =  [[(181, 222), (203, 206)], [(221, 7), (254, 40)]]
+All paired : [[(181, 222), (203, 206), (265, 160.90909090909091)], [(221, 7), (254, 40), (265, 51.0)]]
+Radius =  144.308696897
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (491, 240)
+Slope = 40.6218882111
+Paired points =  [[(181, 217), (203, 202)], [(221, 2), (257, 35)]]
+All paired : [[(181, 217), (203, 202), (267, 158.36363636363635)], [(221, 2), (257, 35), (267, 44.166666666666686)]]
+Radius =  144.308696897
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (492, 224)
+Slope = 39.6053761669
+Paired points =  [[(224, 1), (256, 28)]]
+All paired : [[(224, 1), (256, 28), (261, 32.21875)]]
+Radius =  146.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (494, 224)
+Slope = 40.1996134127
+Paired points =  [None, [(230, 1), (263, 28)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (456, 228)
+Slope = 64.6315767796
+Paired points =  [[(638, 478), (555, 430)], [(195, 213), (236, 201)], [(638, 1), (565, 40)], None, [(236, 1), (286, 49)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (462, 230)
+Slope = 66.1886557948
+Paired points =  [[(638, 478), (556, 433)], [(201, 214), (243, 202)], [(638, 1), (565, 39)], None, [(242, 1), (293, 50)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (466, 234)
+Slope = 67.4143112348
+Paired points =  [[(638, 478), (556, 435)], [(210, 216), (251, 205)], [(638, 1), (564, 40)], None, [(249, 1), (298, 53)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (504, 237)
+Slope = 41.1673896585
+Paired points =  [[(638, 478), (621, 470)], [(219, 221), (237, 210)], [(257, 11), (287, 42)]]
+All paired : [[(638, 478), (621, 470), (298, 318.0)], [(219, 221), (237, 210), (298, 172.72222222222226)], [(257, 11), (287, 42), (298, 53.366666666666617)]]
+Radius =  134.0
+MULTIPOINT (361.1701255043776 347.727117884413, 509.693164609701 417.6203127575063)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (505, 250)
+Slope = 41.1473702388
+Paired points =  [[(266, 37), (292, 60)], [(638, 1), (611, 11)], [(360, 1), (380, 14)]]
+All paired : [[(266, 37), (292, 60), (300, 67.076923076923066)], [(638, 1), (611, 11), (300, 126.18518518518518)], [(360, 1), (380, 14), (300, -38.0)]]
+Radius =  133.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (508, 268)
+Slope = -79.8763242565
+Paired points =  [[(277, 67), (300, 87)], [(638, 1), (555, 16)], [(362, 1), (380, 27)]]
+All paired : [[(277, 67), (300, 87), (553, 307.0)], [(638, 1), (555, 16), (553, 16.361445783132524)], [(362, 1), (380, 27), (553, 276.8888888888888)]]
+Radius =  130.0
+POINT (375.7643844787291 152.8820734597645)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (463, 284)
+Slope = -3.01431563375
+Paired points =  [[(250, 258), (281, 256)], [(285, 91), (323, 129)], None, None, [(378, 21), (393, 82)], [(463, 1), (588, 251)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (458, 296)
+Slope = -3.39027571603
+Paired points =  [[(254, 272), (283, 267)], [(287, 112), (324, 148)], None, None, [(370, 52), (391, 103)], [(462, 1), (590, 246)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (451, 306)
+Slope = -5.2997348443
+Paired points =  [[(255, 282), (282, 277)], [(288, 130), (322, 164)], None, None, None, [(455, 1), (591, 240)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (447, 314)
+Slope = -6.21497275533
+Paired points =  [[(257, 292), (284, 287)], [(289, 144), (322, 178)], None, None, None, [(448, 1), (590, 236)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (444, 321)
+Slope = 74.4103391317
+Paired points =  [[(540, 476), (490, 465)], [(260, 302), (286, 294)], [(290, 156), (322, 188)], [(508, 144), (503, 169)], None, [(366, 105), (382, 150)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (442, 324)
+Slope = 74.1996160418
+Paired points =  [[(536, 476), (487, 466)], [(259, 307), (286, 297)], [(291, 159), (322, 193)], [(505, 151), (500, 175)], None, [(364, 113), (381, 156)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (441, 325)
+Slope = -7.84323951999
+Paired points =  [[(259, 308), (285, 299)], [(291, 164), (322, 195)], None, None, None, [(423, 1), (585, 231)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (440, 325)
+Slope = -7.89976994099
+Paired points =  [[(259, 308), (285, 299)], [(292, 165), (322, 197)], None, None, None, [(418, 1), (584, 231)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (439, 327)
+Slope = -9.19349678843
+Paired points =  [[(260, 310), (284, 301)], [(292, 168), (322, 199)], None, None, None, [(406, 1), (583, 228)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (437, 329)
+Slope = -9.39721332749
+Paired points =  [[(258, 313), (283, 304)], [(290, 172), (320, 202)], None, None, None, [(390, 1), (579, 224)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (432, 330)
+Slope = -9.46712163523
+Paired points =  [[(253, 315), (279, 307)], [(285, 174), (315, 205)], None, None, None, [(384, 1), (576, 226)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (427, 331)
+Slope = -8.07432551685
+Paired points =  [[(249, 319), (274, 309)], [(280, 176), (310, 206)], None, None, None, [(383, 1), (576, 229)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (423, 331)
+Slope = -8.07432551685
+Paired points =  [[(246, 321), (270, 310)], [(276, 180), (306, 208)], None, None, None, [(380, 1), (574, 230)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (421, 331)
+Slope = -9.67357275021
+Paired points =  [[(244, 321), (268, 311)], [(274, 179), (304, 209)], None, None, None, [(378, 1), (573, 229)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (418, 331)
+Slope = -10.4967984418
+Paired points =  [[(241, 323), (265, 312)], [(270, 181), (300, 210)], None, None, None, [(380, 1), (573, 229)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (413, 331)
+Slope = -13.127058012
+Paired points =  [[(236, 325), (260, 314)], [(265, 183), (294, 211)], None, None, None, [(374, 1), (570, 229)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (407, 330)
+Slope = -17.1114037215
+Paired points =  [[(231, 329), (255, 318)], [(258, 188), (287, 216)], None, None, None, [(372, 1), (567, 231)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (401, 330)
+Slope = 69.6697833469
+Paired points =  [[(226, 334), (248, 322)], [(251, 196), (278, 221)], None, None, None, [(371, 1), (565, 230)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (395, 328)
+Slope = 69.6697833469
+Paired points =  [[(222, 336), (243, 323)], [(244, 202), (270, 223)], None, None, None, [(371, 1), (563, 231)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (388, 324)
+Slope = 69.949428418
+Paired points =  [[(215, 332), (236, 320)], [(238, 202), (263, 220)], None, None, None, [(366, 1), (561, 231)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (381, 320)
+Slope = 70.5957542106
+Paired points =  [[(206, 329), (228, 317)], [(231, 196), (255, 215)], None, None, None, [(369, 1), (559, 233)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (586, 377)
+Slope = -84.8485857092
+Paired points =  [[(638, 478), (566, 467)], [(369, 2), (559, 135)]]
+All paired : [[(638, 478), (566, 467), (578, 468.83333333333331)], [(369, 2), (559, 135), (578, 148.29999999999995)]]
+Radius =  47.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (586, 377)
+Slope = -83.1497302471
+Paired points =  [[(638, 478), (561, 469)], [(370, 2), (559, 134)]]
+All paired : [[(638, 478), (561, 469), (575, 470.63636363636363)], [(370, 2), (559, 134), (575, 145.17460317460319)]]
+Radius =  49.040799341
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (367, 307)
+Slope = 70.2218062176
+Paired points =  [[(191, 321), (213, 308)], [(214, 183), (239, 204)], None, None, None, [(367, 1), (554, 237)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (583, 380)
+Slope = 83.9466958526
+Paired points =  [None, [(365, 1), (555, 134)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (583, 391)
+Slope = 85.0006406331
+Paired points =  [[(368, 2), (555, 138)]]
+All paired : [[(368, 2), (555, 138), (574, 151.81818181818181)]]
+Radius =  52.2398315464
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (583, 387)
+Slope = 83.5835569226
+Paired points =  [[(365, 1), (554, 136)]]
+All paired : [[(365, 1), (554, 136), (571, 148.14285714285717)]]
+Radius =  54.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (582, 382)
+Slope = 83.7651668802
+Paired points =  [None, [(368, 2), (554, 136)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (554, 176)
+Slope = 87.1995508513
+Paired points =  [[(638, 478), (579, 406)], [(364, 1), (515, 13)]]
+All paired : [[(638, 478), (579, 406), (546, 365.72881355932202)], [(364, 1), (515, 13), (546, 15.463576158940398)]]
+Radius =  84.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (553, 176)
+Slope = 86.5115630917
+Paired points =  [[(638, 478), (578, 407)], [(367, 2), (514, 12)]]
+All paired : [[(638, 478), (578, 407), (543, 365.58333333333326)], [(367, 2), (514, 12), (543, 13.972789115646265)]]
+Radius =  85.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (551, 173)
+Slope = 83.6631654918
+Paired points =  [[(638, 478), (577, 408)], [(365, 2), (503, 11)]]
+All paired : [[(638, 478), (577, 408), (533, 357.50819672131149)], [(365, 2), (503, 11), (533, 12.956521739130434)]]
+Radius =  87.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (554, 168)
+Slope = 84.1866654662
+Paired points =  [[(638, 478), (578, 402)], [(365, 1), (504, 11)]]
+All paired : [[(638, 478), (578, 402), (538, 351.33333333333326)], [(365, 1), (504, 11), (538, 13.446043165467625)]]
+Radius =  84.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (557, 161)
+Slope = 82.0191765798
+Paired points =  [[(638, 478), (579, 397)], [(364, 2), (501, 11)]]
+All paired : [[(638, 478), (579, 397), (536, 337.96610169491521)], [(364, 2), (501, 11), (536, 13.299270072992702)]]
+Radius =  81.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (338, 269)
+Slope = 68.3642098082
+Paired points =  [[(136, 288), (163, 274)], [(159, 131), (191, 154)], None, [(229, 66), (250, 101)], None, [(368, 1), (549, 246)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (346, 267)
+Slope = 68.4259776517
+Paired points =  [[(138, 288), (167, 273)], [(159, 122), (194, 148)], None, [(231, 54), (255, 94)], None, [(366, 1), (551, 246)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (355, 270)
+Slope = 68.7321885129
+Paired points =  [[(142, 290), (171, 275)], [(163, 118), (199, 146)], None, [(237, 48), (260, 91)], None, [(367, 1), (555, 243)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (373, 271)
+Slope = 68.9032610302
+Paired points =  [[(158, 290), (185, 275)], [(179, 114), (214, 144)], None, [(254, 44), (276, 88)], None, [(365, 1), (558, 240)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (380, 270)
+Slope = 69.0208943287
+Paired points =  [[(164, 288), (191, 273)], [(185, 112), (221, 141)], None, [(260, 41), (284, 84)], None, [(368, 1), (559, 241)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (387, 271)
+Slope = 69.5549040603
+Paired points =  [[(169, 288), (196, 272)], [(190, 110), (226, 140)], None, [(268, 37), (291, 83)], None, [(368, 1), (562, 239)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (395, 270)
+Slope = -17.7290531967
+Paired points =  [[(175, 287), (203, 271)], [(196, 109), (233, 138)], None, [(273, 36), (298, 80)], None, [(370, 1), (564, 238)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (396, 269)
+Slope = -16.4896317519
+Paired points =  [[(175, 285), (203, 269)], [(197, 105), (234, 135)], None, [(276, 31), (299, 78)], None, [(369, 1), (563, 238)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (401, 268)
+Slope = -14.8340001763
+Paired points =  [[(177, 284), (205, 269)], [(199, 102), (236, 133)], None, [(278, 27), (302, 74)], None, [(371, 1), (565, 237)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (410, 267)
+Slope = 15.3346919232
+Paired points =  [[(182, 282), (210, 267)], [(204, 97), (242, 129)], None, [(282, 23), (309, 69)], None, [(368, 1), (566, 233)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (472, 257)
+Slope = -60.7747449836
+Paired points =  [[(211, 94), (231, 107)], [(290, 18), (302, 34)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (475, 258)
+Slope = -62.0577807377
+Paired points =  [[(218, 91), (238, 106)], [(300, 14), (310, 34)], None, None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (476, 258)
+Slope = -63.0862336034
+Paired points =  [[(198, 277), (208, 264)], [(221, 90), (242, 106)], [(302, 15), (314, 34)], None, None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (476, 259)
+Slope = -73.5329166732
+Paired points =  [[(198, 277), (209, 264)], [(221, 90), (243, 106)], [(304, 13), (315, 34)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (476, 259)
+Slope = -73.9676143375
+Paired points =  [[(198, 277), (210, 263)], [(221, 89), (243, 106)], [(302, 14), (316, 34)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (478, 258)
+Slope = -75.6683591181
+Paired points =  [[(202, 275), (215, 261)], [(225, 86), (249, 104)], [(309, 9), (321, 33)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (477, 257)
+Slope = -74.8838948931
+Paired points =  [[(638, 478), (623, 468)], [(203, 274), (216, 261)], [(227, 85), (250, 103)], [(310, 9), (323, 33)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (479, 257)
+Slope = -77.0794810858
+Paired points =  [[(638, 478), (621, 467)], [(206, 274), (221, 260)], [(229, 87), (254, 105)], [(310, 11), (326, 34)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (480, 258)
+Slope = -78.2235089125
+Paired points =  [[(638, 478), (620, 466)], [(210, 273), (225, 259)], [(234, 84), (259, 105)], [(315, 10), (331, 35)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (484, 260)
+Slope = -80.2663464648
+Paired points =  [[(638, 478), (619, 466)], [(216, 273), (231, 258)], [(239, 82), (266, 104)], [(324, 5), (339, 35)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (487, 260)
+Slope = -80.5386356523
+Paired points =  [[(638, 478), (613, 463)], [(221, 271), (240, 256)], [(246, 76), (277, 102)], [(638, 1), (535, 24)], [(329, 1), (353, 34)]]
+All paired : [[(638, 478), (613, 463), (526, 410.79999999999995)], [(221, 271), (240, 256), (526, 30.210526315789537)], [(246, 76), (277, 102), (526, 310.83870967741939)], [(638, 1), (535, 24), (526, 26.009708737864074)], [(329, 1), (353, 34), (526, 271.875)]]
+Radius =  121.04957662
+POINT (534.9780328277097 416.1868196966258)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (490, 258)
+Slope = -87.2202566638
+Paired points =  [[(638, 478), (602, 461)], [(225, 272), (250, 257)], [(256, 59), (291, 92)], [(345, 1), (501, 28)]]
+All paired : [[(638, 478), (602, 461), (501, 413.30555555555554)], [(225, 272), (250, 257), (501, 106.40000000000003)], [(256, 59), (291, 92), (501, 290.0)], [(345, 1), (501, 28), (501, 27.999999999999993)]]
+Radius =  116.10340219
+POINT (502.7140954131295 414.1149895006445)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (474, 268)
+Slope = -89.4666302031
+Paired points =  [[(638, 478), (576, 448)], [(226, 274), (259, 259)], [(258, 55), (302, 97)], [(353, 1), (512, 49)]]
+All paired : [[(638, 478), (576, 448), (476, 399.61290322580646)], [(226, 274), (259, 259), (476, 160.3636363636364)], [(258, 55), (302, 97), (476, 263.09090909090912)], [(353, 1), (512, 49), (476, 38.132075471698101)]]
+Radius =  100.717426496
+POINT (483.9875915145124 403.4778668618608)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (478, 273)
+EXCEPTION IN (hand.py, LINE 97 "HS = np.arctan((palmCentre[1]-wristCenter[1])/((1.0)*(palmCentre[0]-wristCenter[0])))"): float division by zero
+
+
+
+
+
+
+
+PalmCentre = (488, 278)
+Slope = -81.3630787282
+Paired points =  [[(638, 478), (585, 456)], [(235, 283), (272, 268)], [(267, 51), (315, 101)], [(365, 1), (515, 52)]]
+All paired : [[(638, 478), (585, 456), (517, 427.77358490566041)], [(235, 283), (272, 268), (517, 168.67567567567565)], [(267, 51), (315, 101), (517, 311.41666666666674)], [(365, 1), (515, 52), (517, 52.679999999999993)]]
+Radius =  100.975244491
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (490, 280)
+Slope = -81.4078504835
+Paired points =  [[(638, 478), (588, 457)], [(237, 284), (274, 269)], [(269, 51), (317, 101)], [(369, 1), (517, 53)]]
+All paired : [[(638, 478), (588, 457), (519, 428.01999999999998)], [(237, 284), (274, 269), (519, 169.67567567567568)], [(269, 51), (317, 101), (519, 311.41666666666663)], [(369, 1), (517, 53), (519, 53.702702702702709)]]
+Radius =  100.975244491
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (542, 380)
+Slope = 58.9508459315
+Paired points =  [[(238, 286), (466, 130)]]
+All paired : [[(238, 286), (466, 130), (454, 138.21052631578948)]]
+Radius =  93.776329636
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (493, 286)
+Slope = -81.9114232466
+Paired points =  [[(638, 478), (595, 458)], [(238, 287), (278, 272)], [(269, 54), (320, 106)], [(368, 1), (516, 56)]]
+All paired : [[(638, 478), (595, 458), (520, 423.11627906976742)], [(238, 287), (278, 272), (520, 181.25)], [(269, 54), (320, 106), (520, 309.92156862745094)], [(368, 1), (516, 56), (520, 57.486486486486484)]]
+Radius =  99.9249718539
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (541, 382)
+Slope = 58.8908827308
+Paired points =  [[(239, 286), (467, 132)]]
+All paired : [[(239, 286), (467, 132), (454, 140.78070175438597)]]
+Radius =  93.0483745156
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (539, 379)
+Slope = 59.9462336269
+Paired points =  [[(243, 282), (468, 130)]]
+All paired : [[(243, 282), (468, 130), (455, 138.78222222222217)]]
+Radius =  92.3471710449
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (514, 269)
+Slope = -83.9848809609
+Paired points =  [[(252, 270), (267, 258)], [(283, 75), (310, 98)], [(638, 1), (542, 21)], [(373, 1), (387, 35)]]
+All paired : [[(252, 270), (267, 258), (540, 39.600000000000023)], [(283, 75), (310, 98), (540, 293.92592592592592)], [(638, 1), (542, 21), (540, 21.416666666666686)], [(373, 1), (387, 35), (540, 406.57142857142856)]]
+Radius =  124.0
+MULTIPOINT (382.5573678713315 165.5541057029348, 441.7023687292423 118.2381050166062)
+POINT (385.2404850382093 162.0937465140301)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (515, 269)
+Slope = -84.4252193981
+Paired points =  [[(290, 86), (314, 103)], None, [(394, 1), (542, 22)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (515, 269)
+Slope = -84.1926268681
+Paired points =  [[(295, 94), (316, 109)], None, [(399, 1), (543, 22)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (517, 289)
+Slope = -76.4047611684
+Paired points =  [[(263, 269), (280, 258)], [(295, 103), (321, 126)], None, None, [(393, 1), (556, 32)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (458, 280)
+Slope = 18.7508463252
+Paired points =  [[(261, 273), (287, 262)], [(292, 113), (325, 146)], None, None, None, [(396, 1), (575, 234)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (451, 283)
+Slope = 20.3334450197
+Paired points =  [[(259, 276), (286, 265)], [(288, 123), (321, 153)], None, None, None, [(400, 1), (574, 241)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (445, 285)
+Slope = 20.8650357235
+Paired points =  [[(256, 277), (284, 267)], [(285, 127), (318, 159)], None, None, None, [(402, 1), (572, 246)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (438, 286)
+Slope = 21.3402801278
+Paired points =  [[(252, 279), (278, 268)], [(281, 130), (312, 161)], None, None, None, [(405, 1), (571, 248)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (574, 414)
+Slope = 15.9534836372
+Paired points =  [[(277, 134), (407, 260)], [(401, 1), (578, 133)]]
+All paired : [[(277, 134), (407, 260), (462, 313.30769230769232)], [(401, 1), (578, 133), (462, 46.491525423728831)]]
+Radius =  62.9325035256
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (571, 412)
+Slope = 15.4299836629
+Paired points =  [[(274, 141), (402, 262)], [(395, 1), (576, 131)]]
+All paired : [[(274, 141), (402, 262), (455, 312.1015625)], [(395, 1), (576, 131), (455, 44.093922651933724)]]
+Radius =  64.8151216924
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (470, 417)
+Slope = -14.6718995162
+Paired points =  [[(245, 291), (389, 233)], [(638, 478), (581, 200)]]
+All paired : [[(245, 291), (389, 233), (577, 157.27777777777777)], [(638, 478), (581, 200), (577, 180.49122807017557)]]
+Radius =  60.0749531835
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (465, 417)
+Slope = -14.6718995162
+Paired points =  [[(241, 294), (384, 236)], [(638, 478), (580, 204)]]
+All paired : [[(241, 294), (384, 236), (572, 159.74825174825173)], [(638, 478), (580, 204), (572, 166.20689655172418)]]
+Radius =  60.1331855135
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (567, 403)
+Slope = 11.4948085802
+Paired points =  [[(262, 157), (389, 273)], [(402, 1), (572, 132)]]
+All paired : [[(262, 157), (389, 273), (444, 323.236220472441)], [(402, 1), (572, 132), (444, 33.364705882352951)]]
+Radius =  67.6239602508
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (565, 402)
+Slope = 10.874038014
+Paired points =  [[(259, 158), (384, 274)], [(393, 1), (570, 132)]]
+All paired : [[(259, 158), (384, 274), (440, 325.96799999999996)], [(393, 1), (570, 132), (440, 35.78531073446328)]]
+Radius =  68.5893577751
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (566, 400)
+Slope = 9.68316900715
+Paired points =  [[(254, 162), (380, 276)], [(394, 1), (569, 130)]]
+All paired : [[(254, 162), (380, 276), (437, 327.57142857142856)], [(394, 1), (569, 130), (437, 32.697142857142865)]]
+Radius =  70.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (562, 398)
+Slope = 8.75059844304
+Paired points =  [[(247, 166), (375, 278)], [(394, 1), (567, 130)]]
+All paired : [[(247, 166), (375, 278), (432, 327.875)], [(394, 1), (567, 130), (432, 29.3352601156069)]]
+Radius =  70.1783442381
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (564, 396)
+Slope = 7.95711589009
+Paired points =  [[(237, 172), (367, 281)], [(390, 1), (564, 128)]]
+All paired : [[(237, 172), (367, 281), (428, 332.14615384615388)], [(390, 1), (564, 128), (428, 28.735632183908024)]]
+Radius =  72.9177618965
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (565, 388)
+Slope = 0.895627755314
+Paired points =  [[(226, 177), (364, 290)], [(389, 1), (561, 131)]]
+All paired : [[(226, 177), (364, 290), (437, 349.77536231884056)], [(389, 1), (561, 131), (437, 37.279069767441854)]]
+Radius =  68.0073525437
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (564, 392)
+Slope = 2.49081565939
+Paired points =  [[(214, 178), (353, 292)], [(383, 1), (557, 131)]]
+All paired : [[(214, 178), (353, 292), (426, 351.87050359712225)], [(383, 1), (557, 131), (426, 33.126436781609186)]]
+Radius =  72.5603197347
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (562, 396)
+Slope = 2.33849137459
+Paired points =  [[(252, 128), (340, 296)], [(385, 1), (554, 131)]]
+All paired : [[(252, 128), (340, 296), (415, 439.18181818181813)], [(385, 1), (554, 131), (415, 24.076923076923038)]]
+Radius =  76.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (562, 397)
+Slope = -0.779881687898
+Paired points =  [[(241, 136), (333, 304)], [(377, 1), (551, 133)]]
+All paired : [[(241, 136), (333, 304), (415, 453.73913043478262)], [(377, 1), (551, 133), (415, 29.827586206896513)]]
+Radius =  75.1065909225
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (561, 392)
+Slope = 88.0832367794
+Paired points =  [[(232, 143), (327, 310)], [(375, 1), (548, 133)]]
+All paired : [[(232, 143), (327, 310), (556, 712.55789473684194)], [(375, 1), (548, 133), (556, 139.10404624277459)]]
+Radius =  75.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (560, 399)
+Slope = 87.7229412029
+Paired points =  [[(222, 146), (319, 313)], [(375, 1), (546, 136)]]
+All paired : [[(222, 146), (319, 313), (554, 717.58762886597947)], [(375, 1), (546, 136), (554, 142.31578947368416)]]
+Radius =  76.3216876124
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (545, 216)
+Slope = 85.9126978432
+Paired points =  [[(638, 478), (379, 356)], [(376, 1), (538, 22)]]
+All paired : [[(638, 478), (379, 356), (558, 440.31660231660231)], [(376, 1), (538, 22), (558, 24.592592592592588)]]
+Radius =  91.7877987534
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (537, 214)
+Slope = 86.0193796913
+Paired points =  [[(638, 478), (363, 361)], [(367, 1), (525, 15)]]
+All paired : [[(638, 478), (363, 361), (551, 440.98545454545456)], [(367, 1), (525, 15), (551, 17.303797468354432)]]
+Radius =  101.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (534, 222)
+Slope = 86.9726292995
+Paired points =  [[(638, 478), (344, 361)], [(360, 1), (525, 16)]]
+All paired : [[(638, 478), (344, 361), (545, 440.98979591836735)], [(360, 1), (525, 16), (545, 17.81818181818182)]]
+Radius =  104.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (533, 228)
+Slope = 87.5548336473
+Paired points =  [[(638, 478), (330, 360)], [(357, 1), (526, 17)]]
+All paired : [[(638, 478), (330, 360), (542, 441.22077922077921)], [(357, 1), (526, 17), (542, 18.514792899408285)]]
+Radius =  105.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (531, 226)
+Slope = 87.6019951675
+Paired points =  [[(638, 478), (321, 360)], [(353, 1), (523, 15)]]
+All paired : [[(638, 478), (321, 360), (540, 441.52050473186125)], [(353, 1), (523, 15), (540, 16.399999999999999)]]
+Radius =  107.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (529, 227)
+Slope = 88.1712060303
+Paired points =  [[(638, 478), (313, 357)], [(364, 1), (524, 14)]]
+All paired : [[(638, 478), (313, 357), (536, 440.02461538461534)], [(364, 1), (524, 14), (536, 14.975000000000005)]]
+Radius =  109.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (529, 227)
+Slope = 87.8834736876
+Paired points =  [[(638, 478), (312, 355)], [(367, 1), (527, 15)]]
+All paired : [[(638, 478), (312, 355), (537, 439.89263803680984)], [(367, 1), (527, 15), (537, 15.875)]]
+Radius =  108.166538264
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (532, 222)
+Slope = 87.3049241539
+Paired points =  [[(638, 478), (321, 356)], [(359, 1), (522, 14)]]
+All paired : [[(638, 478), (321, 356), (542, 441.05362776025237)], [(359, 1), (522, 14), (542, 15.595092024539873)]]
+Radius =  106.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (541, 228)
+Slope = 86.2920173047
+Paired points =  [[(638, 478), (335, 355)], [(366, 1), (539, 26)]]
+All paired : [[(638, 478), (335, 355), (553, 443.49504950495043)], [(366, 1), (539, 26), (553, 28.02312138728324)]]
+Radius =  93.2308961665
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (558, 378)
+Slope = 83.9540329626
+Paired points =  [[(166, 129), (279, 322)], [(373, 1), (544, 124)]]
+All paired : [[(166, 129), (279, 322), (542, 771.19469026548677)], [(373, 1), (544, 124), (542, 122.56140350877195)]]
+Radius =  78.2623792125
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (562, 387)
+Slope = 87.6749393936
+Paired points =  [[(182, 111), (293, 315)], [(383, 1), (552, 129)]]
+All paired : [[(182, 111), (293, 315), (556, 798.35135135135147)], [(383, 1), (552, 129), (556, 132.02958579881658)]]
+Radius =  74.6324326282
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (565, 399)
+Slope = -4.00221471281
+Paired points =  [[(214, 101), (319, 307)], [(400, 1), (562, 134)]]
+All paired : [[(214, 101), (319, 307), (422, 509.07619047619045)], [(400, 1), (562, 134), (422, 19.061728395061721)]]
+Radius =  72.3671196055
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (367, 310)
+Slope = 25.6540113147
+Paired points =  [[(161, 329), (188, 317)], [(170, 151), (212, 187)], None, [(246, 81), (273, 132)], None, [(441, 1), (566, 258)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (386, 302)
+Slope = 29.0284239347
+Paired points =  [[(184, 319), (209, 306)], [(190, 135), (233, 173)], None, [(271, 64), (297, 119)], None, [(512, 1), (573, 271)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (407, 294)
+Slope = 27.7135223828
+Paired points =  [[(203, 315), (229, 301)], [(213, 128), (253, 166)], None, [(294, 57), (318, 110)], None, [(541, 1), (580, 280)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (420, 299)
+Slope = 33.0233927292
+Paired points =  [[(215, 316), (243, 306)], [(228, 136), (267, 170)], None, [(314, 59), (335, 114)], None, [(588, 1), (587, 285)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (426, 306)
+Slope = 33.598585973
+Paired points =  [[(221, 323), (247, 309)], [(238, 135), (276, 172)], None, [(327, 64), (347, 118)], None, [(615, 1), (592, 287)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (430, 313)
+Slope = 35.8558303322
+Paired points =  [[(225, 326), (251, 314)], [(244, 142), (281, 177)], None, [(335, 70), (353, 123)], None, [(623, 1), (597, 288)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (435, 319)
+Slope = 33.6036812879
+Paired points =  [[(233, 330), (260, 321)], [(252, 153), (288, 186)], None, [(342, 80), (358, 133)], None, [(632, 1), (601, 294)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (568, 408)
+Slope = 19.0062895343
+Paired points =  [[(342, 107), (396, 276)], [(637, 18), (620, 140)]]
+All paired : [[(342, 107), (396, 276), (446, 432.4814814814813)], [(637, 18), (620, 140), (446, 1388.7058823529414)]]
+Radius =  70.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (453, 352)
+Slope = 30.979461799
+Paired points =  [[(243, 345), (296, 343)], [(261, 174), (389, 199)], [(637, 1), (600, 306)]]
+All paired : [[(243, 345), (296, 343), (548, 333.49056603773585)], [(261, 174), (389, 199), (548, 230.0546875)], [(637, 1), (600, 306), (548, 734.64864864864921)]]
+Radius =  64.0312423743
+MULTIPOINT (367.4522258779842 340.30368958951, 537.4686095830696 333.8879769968653)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (467, 368)
+Slope = 43.8764806676
+Paired points =  [[(241, 347), (375, 263)], [(629, 1), (590, 309)]]
+All paired : [[(241, 347), (375, 263), (518, 173.35820895522392)], [(629, 1), (590, 309), (518, 877.61538461538476)]]
+Radius =  49.0917508345
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (476, 379)
+Slope = -60.9763082906
+Paired points =  [[(626, 1), (485, 291)]]
+All paired : [[(626, 1), (485, 291), (471, 319.79432624113463)]]
+Radius =  46.3249392876
+POINT (472.5378280115535 316.6314175648899)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (474, 381)
+Slope = -66.0710062098
+Paired points =  [[(624, 1), (484, 301)]]
+All paired : [[(624, 1), (484, 301), (470, 331.0)]]
+Radius =  41.1825205639
+POINT (472.5790787763254 325.4734026221599)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (548, 394)
+Slope = 13.0012078502
+Paired points =  [[(315, 149), (357, 312)], [(620, 1), (607, 147)]]
+All paired : [[(315, 149), (357, 312), (405, 498.28571428571422)], [(620, 1), (607, 147), (405, 2415.6153846153848)]]
+Radius =  79.0253124005
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (546, 392)
+Slope = 11.6073959871
+Paired points =  [[(301, 147), (344, 311)], [(613, 1), (605, 142)]]
+All paired : [[(301, 147), (344, 311), (395, 505.51162790697686)], [(613, 1), (605, 142), (395, 3843.25)]]
+Radius =  82.2192191644
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (418, 402)
+Slope = -9.20506704577
+Paired points =  [[(191, 354), (243, 351)], [(211, 197), (336, 226)], [(610, 1), (596, 261)]]
+All paired : [[(191, 354), (243, 351), (560, 332.71153846153845)], [(211, 197), (336, 226), (560, 277.96800000000002)], [(610, 1), (596, 261), (560, 929.57142857142935)]]
+Radius =  75.802374633
+MULTIPOINT (332.4995712056943 345.8365631996715, 496.4669372913808 336.3769074639588)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (544, 389)
+Slope = 12.2255107361
+Paired points =  [[(291, 125), (339, 288)], [(606, 1), (607, 130)]]
+All paired : [[(291, 125), (339, 288), (387, 451.0)], [(606, 1), (607, 130), (387, -28250.0)]]
+Radius =  85.6037382361
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (448, 399)
+Slope = -12.2709945992
+Paired points =  [[(198, 336), (331, 242)], [(638, 478), (604, 238)]]
+All paired : [[(198, 336), (331, 242), (586, 61.774436090225549)], [(638, 478), (604, 238), (586, 110.94117647058829)]]
+Radius =  76.1577310586
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (531, 383)
+Slope = 18.7621787043
+Paired points =  [[(281, 104), (324, 267)], [(568, 1), (602, 119)]]
+All paired : [[(281, 104), (324, 267), (369, 437.5813953488373)], [(568, 1), (602, 119), (369, -689.64705882352928)]]
+Radius =  91.2852671574
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (540, 381)
+Slope = 12.4267297677
+Paired points =  [[(272, 109), (324, 270)], [(557, 1), (599, 115)]]
+All paired : [[(272, 109), (324, 270), (372, 418.61538461538453)], [(557, 1), (599, 115), (372, -501.14285714285711)]]
+Radius =  91.0494371207
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (542, 383)
+Slope = 15.9996388936
+Paired points =  [[(285, 120), (333, 276)], [(557, 1), (597, 114)]]
+All paired : [[(285, 120), (333, 276), (378, 422.25)], [(557, 1), (597, 114), (378, -504.67499999999995)]]
+Radius =  90.426765949
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (546, 385)
+Slope = 16.3385313527
+Paired points =  [[(298, 134), (344, 282)], [(568, 1), (598, 118)]]
+All paired : [[(298, 134), (344, 282), (389, 426.78260869565224)], [(568, 1), (598, 118), (389, -697.09999999999991)]]
+Radius =  87.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (528, 393)
+Slope = 28.5300103098
+Paired points =  [None, [(317, 144), (363, 281)], [(588, 1), (600, 140)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (488, 383)
+Slope = 1.5215410176
+Paired points =  [[(279, 364), (336, 374)], [(288, 220), (403, 246)], [(627, 1), (615, 255)]]
+All paired : [[(279, 364), (336, 374), (601, 420.49122807017545)], [(288, 220), (403, 246), (601, 290.76521739130436)], [(627, 1), (615, 255), (601, 551.33333333333212)]]
+Radius =  62.6258732474
+MULTIPOINT (403.5955180399801 385.8588628140316, 566.4405760147675 414.428171230661)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (477, 370)
+Slope = 10.394127195
+Paired points =  [[(287, 363), (326, 358)], None, [(366, 162), (371, 237)], None, [(636, 23), (617, 312)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (502, 377)
+Slope = 48.6991879337
+Paired points =  [[(638, 478), (628, 462)], [(303, 360), (333, 351)], None, [(377, 153), (381, 233)], None, [(634, 1), (626, 158)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (517, 368)
+Slope = 5.97304405964
+Paired points =  [[(327, 361), (354, 351)], [(334, 205), (376, 245)], [(559, 169), (555, 201)], [(401, 149), (428, 202)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (531, 365)
+Slope = 5.9571274409
+Paired points =  [[(343, 359), (363, 347)], [(348, 198), (386, 237)], [(574, 163), (572, 193)], [(416, 142), (440, 192)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (542, 350)
+Slope = 61.9388237247
+Paired points =  [[(351, 349), (373, 345)], [(359, 198), (394, 228)], [(593, 152), (589, 179)], [(430, 136), (451, 179)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (539, 342)
+Slope = 61.9181810029
+Paired points =  [[(359, 351), (372, 340)], [(358, 193), (391, 223)], [(589, 140), (587, 171)], [(432, 126), (449, 171)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (525, 341)
+Slope = 1.05493931279
+Paired points =  [[(638, 478), (623, 467)], [(344, 349), (358, 338)], [(344, 189), (378, 221)], [(568, 134), (568, 167)], [(415, 120), (436, 170)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (507, 334)
+Slope = 49.6606392546
+Paired points =  [[(638, 478), (613, 457)], [(325, 341), (341, 332)], [(326, 184), (360, 216)], [(551, 126), (550, 161)], [(398, 113), (417, 163)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (491, 348)
+Slope = 26.1086601354
+Paired points =  [[(273, 316), (328, 323)], [(638, 232), (602, 398)], [(285, 163), (414, 187)]]
+All paired : [[(273, 316), (328, 323), (589, 356.21818181818179)], [(638, 232), (602, 398), (589, 457.94444444444434)], [(285, 163), (414, 187), (589, 219.55813953488371)]]
+Radius =  67.082039325
+MULTIPOINT (401.8723703245746 332.4019380413095, 581.2057532962392 355.2261867831577)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (527, 393)
+Slope = 44.4920542587
+Paired points =  [[(245, 301), (384, 221)], [(553, 1), (610, 108)]]
+All paired : [[(245, 301), (384, 221), (418, 201.431654676259)], [(553, 1), (610, 108), (418, -252.42105263157896)]]
+Radius =  79.0569415042
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (523, 394)
+Slope = 43.3854175161
+Paired points =  [[(218, 298), (371, 215)], [(534, 1), (600, 117)]]
+All paired : [[(218, 298), (371, 215), (415, 191.13071895424835)], [(534, 1), (600, 117), (415, -208.15151515151513)]]
+Radius =  77.2334124586
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (487, 333)
+Slope = 62.8423547836
+Paired points =  [[(638, 478), (613, 451)], [(266, 297), (305, 295)], [(264, 130), (391, 152)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (482, 299)
+Slope = 55.0627937163
+Paired points =  [[(638, 478), (593, 447)], [(279, 313), (300, 306)], [(286, 148), (320, 174)], [(534, 84), (531, 113)], [(362, 76), (383, 117)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (538, 320)
+Slope = 3.71316622505
+Paired points =  [[(338, 320), (353, 308)], [(333, 159), (376, 190)]]
+All paired : [[(338, 320), (353, 308), (353, 308.00000000000006)], [(333, 159), (376, 190), (353, 173.41860465116278)]]
+Radius =  91.2852671574
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (560, 298)
+Slope = 71.8372533729
+Paired points =  [[(638, 478), (610, 455)], [(369, 333), (397, 320)], [(372, 162), (410, 193)], [(624, 91), (623, 131)], [(447, 88), (470, 135)], [(518, 72), (538, 117)]]
+All paired : [[(638, 478), (610, 455), (608, 453.35714285714283)], [(369, 333), (397, 320), (608, 222.03571428571428)], [(372, 162), (410, 193), (608, 354.5263157894737)], [(624, 91), (623, 131), (608, 731.0)], [(447, 88), (470, 135), (608, 417.0)], [(518, 72), (538, 117), (608, 274.5)]]
+Radius =  75.953933407
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (561, 306)
+Slope = 71.1114060362
+Paired points =  [[(638, 478), (611, 456)], [(375, 333), (404, 326)], [(381, 175), (418, 203)], [(628, 102), (624, 144)], [(452, 106), (477, 147)], [(528, 86), (543, 131)]]
+All paired : [[(638, 478), (611, 456), (609, 454.37037037037032)], [(375, 333), (404, 326), (609, 276.51724137931035)], [(381, 175), (418, 203), (609, 347.54054054054058)], [(628, 102), (624, 144), (609, 301.5)], [(452, 106), (477, 147), (609, 363.48000000000002)], [(528, 86), (543, 131), (609, 329.0)]]
+Radius =  73.2461603089
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (553, 321)
+Slope = 69.6491545535
+Paired points =  [[(638, 478), (608, 469)], [(366, 346), (383, 333)], [(372, 192), (403, 217)], [(444, 127), (459, 164)], [(606, 121), (603, 152)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (521, 352)
+Slope = -76.8731769702
+Paired points =  [[(332, 362), (345, 351)], [(337, 204), (368, 231)], [(563, 142), (561, 170)], [(402, 140), (424, 179)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (504, 357)
+Slope = 60.4528083162
+Paired points =  [[(638, 478), (627, 466)], [(318, 373), (332, 360)], [(324, 214), (355, 239)], [(548, 155), (545, 182)], [(391, 149), (410, 188)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (495, 362)
+Slope = 37.3755697495
+Paired points =  [[(638, 478), (626, 462)], [(308, 377), (324, 364)], [(317, 219), (347, 244)], [(540, 161), (537, 188)], [(382, 155), (403, 193)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (483, 354)
+Slope = 34.0001249956
+Paired points =  [[(638, 478), (620, 449)], [(297, 372), (313, 360)], [(304, 213), (335, 239)], [(529, 156), (526, 182)], [(372, 149), (390, 188)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (484, 346)
+Slope = 36.7472305919
+Paired points =  [[(638, 478), (617, 448)], [(296, 361), (315, 351)], [(304, 207), (335, 231)], [(530, 148), (527, 174)], [(368, 146), (390, 180)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (490, 323)
+Slope = 47.959987116
+Paired points =  [[(638, 478), (607, 450)], [(298, 333), (317, 325)], [(307, 179), (339, 206)], [(538, 124), (535, 149)], [(375, 117), (396, 155)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (497, 310)
+Slope = 56.8169870902
+Paired points =  [[(638, 478), (597, 453)], [(302, 322), (321, 313)], [(311, 165), (343, 191)], [(546, 107), (545, 134)], [(381, 102), (402, 139)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (500, 300)
+Slope = 61.1753520767
+Paired points =  [[(638, 478), (592, 452)], [(303, 312), (323, 304)], [(312, 155), (345, 180)], [(555, 96), (551, 123)], [(383, 90), (405, 127)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (504, 287)
+Slope = 65.2349388805
+Paired points =  [[(638, 478), (588, 451)], [(301, 294), (323, 289)], [(314, 135), (346, 162)], [(562, 78), (560, 106)], [(389, 69), (409, 107)], [(462, 55), (473, 91)]]
+All paired : [[(638, 478), (588, 451), (577, 445.06)], [(301, 294), (323, 289), (577, 231.27272727272725)], [(314, 135), (346, 162), (577, 356.90625)], [(562, 78), (560, 106), (577, -132.0)], [(389, 69), (409, 107), (577, 426.20000000000005)], [(462, 55), (473, 91), (577, 431.36363636363649)]]
+Radius =  88.0511215147
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (506, 284)
+Slope = 65.8056153246
+Paired points =  [[(638, 478), (588, 451)], [(302, 300), (324, 287)], [(315, 130), (348, 158)], [(565, 74), (564, 103)], [(393, 62), (411, 103)], [(467, 49), (476, 87)]]
+All paired : [[(638, 478), (588, 451), (578, 445.59999999999997)], [(302, 300), (324, 287), (578, 136.90909090909093)], [(315, 130), (348, 158), (578, 353.15151515151518)], [(565, 74), (564, 103), (578, -303.0)], [(393, 62), (411, 103), (578, 483.3888888888888)], [(467, 49), (476, 87), (578, 517.66666666666652)]]
+Radius =  88.3911760302
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (509, 284)
+Slope = 66.3671709495
+Paired points =  [[(638, 478), (589, 452)], [(304, 299), (325, 286)], [(316, 131), (349, 157)], [(570, 73), (567, 101)], [(395, 61), (414, 102)], [(467, 48), (479, 85)]]
+All paired : [[(638, 478), (589, 452), (580, 447.22448979591832)], [(304, 299), (325, 286), (580, 128.14285714285717)], [(316, 131), (349, 157), (580, 339.0)], [(570, 73), (567, 101), (580, -20.33333333333394)], [(395, 61), (414, 102), (580, 460.21052631578948)], [(467, 48), (479, 85), (580, 396.41666666666674)]]
+Radius =  88.955044826
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (509, 282)
+Slope = 66.7928607246
+Paired points =  [[(638, 478), (588, 451)], [(303, 297), (325, 284)], [(316, 126), (349, 154)], [(570, 70), (569, 99)], [(394, 59), (414, 99)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (507, 279)
+Slope = 66.4965968654
+Paired points =  [[(638, 478), (587, 450)], [(303, 293), (323, 280)], [(315, 124), (347, 151)], [(573, 68), (569, 96)], [(394, 55), (413, 95)], [(468, 42), (479, 78)]]
+All paired : [[(638, 478), (587, 450), (578, 445.05882352941177)], [(303, 293), (323, 280), (578, 114.25000000000006)], [(315, 124), (347, 151), (578, 345.90625)], [(573, 68), (569, 96), (578, 33.0)], [(394, 55), (413, 95), (578, 442.36842105263167)], [(468, 42), (479, 78), (578, 402.0)]]
+Radius =  89.693923986
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (504, 277)
+Slope = 65.6157986648
+Paired points =  [[(638, 478), (587, 449)], [(306, 291), (319, 278)], [(312, 122), (344, 148)], [(570, 65), (566, 93)], [(390, 54), (410, 92)], [(466, 39), (476, 76)]]
+All paired : [[(638, 478), (587, 449), (578, 443.88235294117646)], [(306, 291), (319, 278), (578, 19.0)], [(312, 122), (344, 148), (578, 338.125)], [(570, 65), (566, 93), (578, 9.0)], [(390, 54), (410, 92), (578, 411.20000000000005)], [(466, 39), (476, 76), (578, 453.39999999999986)]]
+Radius =  90.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (504, 274)
+Slope = 65.6157986648
+Paired points =  [[(638, 478), (586, 448)], [(296, 289), (318, 276)], [(309, 118), (343, 145)], [(569, 60), (565, 89)], [(390, 48), (408, 89)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (502, 271)
+Slope = 65.5892961975
+Paired points =  [[(638, 478), (585, 447)], [(295, 286), (315, 273)], [(307, 114), (339, 141)], [(567, 54), (564, 84)], [(388, 43), (406, 84)], [(462, 29), (473, 67)]]
+All paired : [[(638, 478), (585, 447), (577, 442.32075471698113)], [(295, 286), (315, 273), (577, 102.69999999999999)], [(307, 114), (339, 141), (577, 341.8125)], [(567, 54), (564, 84), (577, -46.0)], [(388, 43), (406, 84), (577, 473.50000000000011)], [(462, 29), (473, 67), (577, 426.27272727272725)]]
+Radius =  91.394748208
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (499, 271)
+Slope = 65.5382045526
+Paired points =  [[(638, 478), (585, 448)], [(284, 280), (308, 275)], [(300, 111), (333, 139)], [(564, 49), (561, 79)], [(382, 38), (400, 80)], [(456, 24), (468, 62)]]
+All paired : [[(638, 478), (585, 448), (576, 442.90566037735852)], [(284, 280), (308, 275), (576, 219.16666666666669)], [(300, 111), (333, 139), (576, 345.18181818181819)], [(564, 49), (561, 79), (576, -71.0)], [(382, 38), (400, 80), (576, 490.66666666666663)], [(456, 24), (468, 62), (576, 404.0)]]
+Radius =  93.2308961665
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (499, 277)
+Slope = 65.0890921324
+Paired points =  [[(638, 478), (589, 454)], [(276, 288), (302, 283)], [(290, 110), (326, 140)], [(564, 43), (560, 77)], [(376, 32), (394, 80)], [(451, 18), (464, 61)]]
+All paired : [[(638, 478), (589, 454), (579, 449.10204081632651)], [(276, 288), (302, 283), (579, 229.73076923076923)], [(290, 110), (326, 140), (579, 350.83333333333331)], [(564, 43), (560, 77), (579, -84.5)], [(376, 32), (394, 80), (579, 573.33333333333337)], [(451, 18), (464, 61), (579, 441.38461538461524)]]
+Radius =  95.859271852
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (504, 290)
+Slope = 58.1440215293
+Paired points =  [[(638, 478), (612, 463)], [(270, 305), (295, 298)], [(281, 111), (320, 144)], [(572, 39), (569, 76)], [(367, 30), (392, 79)], [(452, 12), (466, 59)]]
+All paired : [[(638, 478), (612, 463), (611, 462.42307692307691)], [(270, 305), (295, 298), (611, 209.52000000000001)], [(281, 111), (320, 144), (611, 390.23076923076923)], [(572, 39), (569, 76), (611, -442.0)], [(367, 30), (392, 79), (611, 508.24000000000001)], [(452, 12), (466, 59), (611, 545.78571428571422)]]
+Radius =  101.980390272
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (514, 306)
+Slope = 61.7305389865
+Paired points =  [[(263, 322), (291, 313)], [(274, 110), (318, 148)], [(586, 35), (582, 77)], [(367, 23), (394, 80)], [(456, 5), (472, 59)]]
+All paired : [[(263, 322), (291, 313), (409, 275.07142857142856)], [(274, 110), (318, 148), (409, 226.59090909090912)], [(586, 35), (582, 77), (409, 1893.5)], [(367, 23), (394, 80), (409, 111.66666666666663)], [(456, 5), (472, 59), (409, -153.625)]]
+Radius =  108.33743582
+POINT (369.0030318874003 287.9275968933356)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (519, 307)
+Slope = 61.644284401
+Paired points =  [[(265, 338), (291, 320)], [(267, 109), (315, 146)], [(596, 27), (591, 72)], [(365, 15), (395, 75)], [(451, 1), (477, 54)]]
+All paired : [[(265, 338), (291, 320), (412, 236.23076923076923)], [(267, 109), (315, 146), (412, 220.77083333333337)], [(596, 27), (591, 72), (412, 1683.0)], [(365, 15), (395, 75), (412, 109.0)], [(451, 1), (477, 54), (412, -78.5)]]
+Radius =  110.072703247
+POINT (378.3531261459062 259.5247588220649)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (518, 297)
+Slope = 61.6622138213
+Paired points =  [[(257, 320), (289, 313)], [(264, 100), (312, 137)], [(596, 13), (595, 61)], [(482, 1), (480, 47)], [(365, 3), (394, 63)]]
+All paired : [[(257, 320), (289, 313), (410, 286.53125)], [(264, 100), (312, 137), (410, 212.54166666666669)], [(596, 13), (595, 61), (410, 8941.0)], [(482, 1), (480, 47), (410, 1657.0)], [(365, 3), (394, 63), (410, 96.103448275862092)]]
+Radius =  111.220501707
+POINT (367.914345990884 295.7374868144941)
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): 'Point' object has no attribute 'geoms'
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (514, 288)
+Slope = 61.6797940832
+Paired points =  [[(249, 310), (283, 304)], [(258, 87), (306, 126)], [(594, 1), (591, 49)], None, [(352, 1), (390, 55)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (512, 283)
+Slope = 61.5973031061
+Paired points =  [[(247, 306), (278, 298)], [(254, 81), (302, 120)], [(602, 1), (588, 43)], None, [(347, 1), (387, 50)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (512, 282)
+Slope = 61.5173145249
+Paired points =  [[(246, 298), (276, 291)], [(252, 74), (301, 114)], [(602, 1), (585, 39)], None, [(346, 1), (386, 48)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (511, 276)
+Slope = 61.5973031061
+Paired points =  [[(638, 478), (622, 469)], [(263, 304), (278, 285)], [(254, 72), (302, 111)], [(602, 1), (585, 38)], None, [(349, 1), (388, 46)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (506, 275)
+Slope = 61.7815851357
+Paired points =  [[(638, 478), (616, 466)], [(263, 303), (277, 284)], [(256, 77), (302, 113)], [(595, 1), (578, 39)], None, [(347, 1), (385, 48)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (495, 279)
+Slope = 57.7417854453
+Paired points =  [[(638, 478), (611, 462)], [(247, 296), (275, 291)], [(257, 91), (299, 125)], [(572, 3), (565, 48)], [(459, 1), (458, 40)], [(344, 4), (375, 55)]]
+All paired : [[(638, 478), (611, 462), (610, 461.40740740740739)], [(247, 296), (275, 291), (610, 231.17857142857144)], [(257, 91), (299, 125), (610, 376.76190476190476)], [(572, 3), (565, 48), (610, -241.28571428571422)], [(459, 1), (458, 40), (610, -5888.0)], [(344, 4), (375, 55), (610, 441.61290322580646)]]
+Radius =  108.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (486, 292)
+Slope = 53.4900082902
+Paired points =  [[(638, 478), (611, 459)], [(254, 305), (277, 301)], [(257, 111), (298, 143)], [(553, 26), (549, 69)], [(341, 27), (370, 77)], [(429, 5), (446, 56)]]
+All paired : [[(638, 478), (611, 459), (609, 457.59259259259255)], [(254, 305), (277, 301), (609, 243.26086956521738)], [(257, 111), (298, 143), (609, 385.73170731707319)], [(553, 26), (549, 69), (609, -576.0)], [(341, 27), (370, 77), (609, 489.06896551724139)], [(429, 5), (446, 56), (609, 545.0)]]
+Radius =  103.247275993
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (479, 297)
+Slope = 51.4577323037
+Paired points =  [[(638, 478), (605, 453)], [(270, 326), (281, 312)], [(261, 129), (299, 158)], [(545, 47), (540, 87)], [(343, 47), (367, 95)], [(425, 28), (440, 74)]]
+All paired : [[(638, 478), (605, 453), (601, 449.969696969697)], [(270, 326), (281, 312), (601, -95.272727272727252)], [(261, 129), (299, 158), (601, 388.47368421052636)], [(545, 47), (540, 87), (601, -401.0)], [(343, 47), (367, 95), (601, 563.0)], [(425, 28), (440, 74), (601, 567.73333333333335)]]
+Radius =  98.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (477, 304)
+Slope = 49.3902965105
+Paired points =  [[(638, 478), (604, 450)], [(274, 333), (286, 318)], [(266, 143), (304, 172)], [(539, 66), (535, 104)], [(343, 66), (369, 110)], [(425, 45), (439, 90)]]
+All paired : [[(638, 478), (604, 450), (598, 445.05882352941177)], [(274, 333), (286, 318), (598, -72.0)], [(266, 143), (304, 172), (598, 396.36842105263162)], [(539, 66), (535, 104), (598, -494.5)], [(343, 66), (369, 110), (598, 497.53846153846155)], [(425, 45), (439, 90), (598, 601.07142857142844)]]
+Radius =  94.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (474, 310)
+Slope = 46.3767029657
+Paired points =  [[(638, 478), (604, 446)], [(278, 339), (289, 324)], [(270, 154), (307, 182)], [(532, 83), (530, 118)], [(346, 79), (369, 124)], [(424, 61), (438, 104)]]
+All paired : [[(638, 478), (604, 446), (598, 440.35294117647061)], [(278, 339), (289, 324), (598, -97.363636363636374)], [(270, 154), (307, 182), (598, 402.21621621621625)], [(532, 83), (530, 118), (598, -1072.0)], [(346, 79), (369, 124), (598, 572.04347826086951)], [(424, 61), (438, 104), (598, 595.42857142857133)]]
+Radius =  91.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (472, 316)
+Slope = 43.411707283
+Paired points =  [[(638, 478), (606, 444)], [(278, 344), (290, 329)], [(273, 163), (308, 191)], [(527, 95), (525, 128)], [(343, 94), (369, 134)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (468, 320)
+Slope = 38.0430897482
+Paired points =  [[(273, 348), (290, 333)], [(638, 309), (606, 435)], [(272, 170), (308, 197)], [(523, 104), (520, 136)], [(342, 100), (367, 142)], [(418, 82), (432, 123)]]
+All paired : [[(273, 348), (290, 333), (601, 58.58823529411768)], [(638, 309), (606, 435), (601, 454.6875)], [(272, 170), (308, 197), (601, 416.75)], [(523, 104), (520, 136), (601, -728.0)], [(342, 100), (367, 142), (601, 535.12)], [(418, 82), (432, 123), (601, 617.92857142857133)]]
+Radius =  87.0
+MULTIPOINT (362.2248685829497 269.2721747797502, 430.8876577122219 208.6873608421571)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (464, 320)
+Slope = 36.0707015536
+Paired points =  [[(265, 351), (286, 334)], [(638, 308), (606, 431)], [(269, 172), (303, 199)], [(514, 105), (514, 136)], [(340, 101), (362, 143)], [(414, 84), (427, 124)]]
+EXCEPTION IN (hand.py, LINE 157 "(x,y) = ((int)(I[2][0]),(int)(I[2][1]))"): cannot convert float NaN to integer
+
+
+
+
+
+
+
+PalmCentre = (461, 319)
+Slope = 35.1520136297
+Paired points =  [[(263, 351), (284, 334)], [(638, 307), (603, 428)], [(267, 173), (301, 200)], [(513, 106), (510, 137)], [(337, 102), (359, 144)], [(410, 85), (424, 125)]]
+All paired : [[(263, 351), (284, 334), (596, 81.428571428571445)], [(638, 307), (603, 428), (596, 452.19999999999982)], [(267, 173), (301, 200), (596, 434.26470588235293)], [(513, 106), (510, 137), (596, -751.66666666666697)], [(337, 102), (359, 144), (596, 596.45454545454538)], [(410, 85), (424, 125), (596, 616.42857142857133)]]
+Radius =  86.0523096727
+MULTIPOINT (352.1334494465614 278.8443504480217, 444.3853104891274 204.1642724611826)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (456, 321)
+Slope = 32.7306769773
+Paired points =  [[(260, 353), (281, 336)], [(638, 303), (602, 424)], [(264, 174), (299, 202)], [(508, 108), (504, 140)], [(334, 104), (356, 147)], [(405, 88), (420, 128)]]
+All paired : [[(260, 353), (281, 336), (593, 83.428571428571445)], [(638, 303), (602, 424), (593, 454.25000000000023)], [(264, 174), (299, 202), (593, 437.20000000000005)], [(508, 108), (504, 140), (593, -572.0)], [(334, 104), (356, 147), (593, 610.22727272727263)], [(405, 88), (420, 128), (593, 589.33333333333326)]]
+Radius =  85.0058821494
+MULTIPOINT (348.4275644725934 281.4157811412339, 439.6766548042092 207.547469920402)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (453, 323)
+Slope = 30.7997606924
+Paired points =  [[(258, 356), (278, 339)], [(638, 296), (602, 422)], [(261, 179), (295, 206)], [(500, 111), (500, 143)], [(329, 110), (352, 151)], [(402, 92), (415, 131)]]
+EXCEPTION IN (hand.py, LINE 157 "(x,y) = ((int)(I[2][0]),(int)(I[2][1]))"): cannot convert float NaN to integer
+
+
+
+
+
+
+
+PalmCentre = (449, 323)
+Slope = 32.6238254122
+Paired points =  [[(256, 358), (277, 341)], [(638, 298), (599, 420)], [(259, 182), (293, 208)], [(499, 114), (496, 145)], [(328, 112), (349, 153)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (445, 323)
+Slope = 32.323721204
+Paired points =  [[(252, 358), (273, 342)], [(638, 292), (598, 417)], [(256, 183), (289, 210)], [(492, 115), (489, 145)], [(320, 118), (344, 155)], [(393, 97), (406, 135)]]
+All paired : [[(252, 358), (273, 342), (581, 107.33333333333337)], [(638, 292), (598, 417), (581, 470.125)], [(256, 183), (289, 210), (581, 448.90909090909088)], [(492, 115), (489, 145), (581, -775.0)], [(320, 118), (344, 155), (581, 520.375)], [(393, 97), (406, 135), (581, 646.53846153846143)]]
+Radius =  84.0238061504
+MULTIPOINT (335.3430115788336 294.500562606603, 446.7071088666481 209.6517265777919)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (438, 324)
+Slope = 33.2069515522
+Paired points =  [[(248, 362), (268, 345)], [(638, 273), (595, 413)], [(250, 189), (283, 214)], [(312, 122), (337, 159)], [(481, 116), (478, 146)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (433, 326)
+Slope = 32.2120640784
+Paired points =  [[(245, 365), (263, 349)], [(638, 260), (595, 410)], [(246, 194), (278, 218)], [(306, 129), (330, 163)], [(470, 119), (470, 148)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (425, 326)
+Slope = 34.8290288248
+Paired points =  [[(240, 366), (258, 350)], [(638, 233), (590, 407)], [(241, 198), (272, 221)], [(301, 130), (324, 166)], [(462, 121), (462, 151)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (417, 323)
+Slope = 40.0163666403
+Paired points =  [[(234, 365), (253, 349)], [(638, 244), (584, 407)], [(235, 199), (265, 221)], [(293, 133), (317, 166)], [(453, 121), (453, 150)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (407, 323)
+Slope = 43.4308773327
+Paired points =  [[(226, 366), (244, 350)], [(227, 201), (257, 222)], [(286, 132), (308, 168)], None, None, [(553, 1), (586, 260)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (398, 321)
+Slope = 45.5487258693
+Paired points =  [[(218, 365), (236, 350)], [(218, 203), (248, 222)], [(277, 133), (298, 168)], None, None, [(544, 1), (583, 263)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (392, 307)
+Slope = 52.933997984
+Paired points =  [[(215, 197), (243, 213)], [(269, 131), (292, 158)], None, None, [(535, 1), (576, 276)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (388, 283)
+Slope = 57.1602989022
+Paired points =  [[(638, 221), (556, 404)], [(217, 177), (242, 191)], [(270, 112), (291, 136)], [(428, 93), (424, 118)], None, None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (569, 409)
+Slope = 10.4310966473
+Paired points =  [[(638, 214), (624, 267)], [(267, 87), (372, 249)]]
+All paired : [[(638, 214), (624, 267), (444, 948.42857142857133)], [(267, 87), (372, 249), (444, 360.08571428571429)]]
+Radius =  67.1788657243
+MULTIPOINT (562.6171585344183 499.3778998339876, 608.0771524471768 327.2793514499737)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (567, 408)
+Slope = 12.9679760622
+Paired points =  [[(638, 213), (623, 264)], [(265, 69), (366, 235)]]
+All paired : [[(638, 213), (623, 264), (441, 882.79999999999995)], [(265, 69), (366, 235), (441, 358.26732673267321)]]
+Radius =  68.6804193348
+MULTIPOINT (553.6923031597308 499.646169256915, 605.4311409127018 323.7341208968136)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (567, 409)
+Slope = 13.0681760917
+Paired points =  [[(638, 215), (623, 266)], [(266, 71), (367, 236)]]
+All paired : [[(638, 215), (623, 266), (442, 881.39999999999986)], [(266, 71), (367, 236), (442, 358.52475247524745)]]
+Radius =  68.249542123
+MULTIPOINT (554.1396510582852 500.1251864018302, 605.5233987736809 325.4204441694849)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (568, 409)
+Slope = 11.665206416
+Paired points =  [[(638, 227), (623, 269)], [(269, 67), (367, 239)]]
+All paired : [[(638, 227), (623, 269), (442, 775.79999999999995)], [(269, 67), (367, 239), (442, 370.63265306122446)]]
+Radius =  68.4105255059
+MULTIPOINT (541.4164488717619 497.4339431590666, 603.4540590284192 323.7286347204262)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (569, 410)
+Slope = 10.3501045434
+Paired points =  [[(638, 228), (623, 270)], [(262, 73), (365, 243)]]
+All paired : [[(638, 228), (623, 270), (443, 774.0)], [(262, 73), (365, 243), (443, 371.73786407766988)]]
+Radius =  67.6239602508
+MULTIPOINT (541.8788079491113 497.1393377424884, 603.2147253385145 325.3987690521591)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (569, 410)
+Slope = 10.7067786044
+Paired points =  [[(638, 228), (624, 270)], [(266, 69), (365, 242)]]
+All paired : [[(638, 228), (624, 270), (442, 816.0)], [(266, 69), (365, 242), (442, 376.55555555555554)]]
+Radius =  68.0
+MULTIPOINT (547.6117792211541 499.1646623365378, 605.4033505083 325.7899484750998)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (570, 409)
+Slope = 10.5133519616
+Paired points =  [[(638, 230), (624, 270)], [(266, 70), (368, 240)]]
+All paired : [[(638, 230), (624, 270), (446, 778.5714285714289)], [(266, 70), (368, 240), (446, 370.0)]]
+Radius =  67.1788657243
+MULTIPOINT (544.869910301157 496.0859705681231, 604.6791721562379 325.2023652678917)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (569, 410)
+Slope = 12.7308096634
+Paired points =  [[(638, 230), (624, 270)], [(268, 70), (370, 238)]]
+All paired : [[(638, 230), (624, 270), (445, 781.42857142857156)], [(268, 70), (370, 238), (445, 361.52941176470586)]]
+Radius =  67.4759216313
+MULTIPOINT (544.3346457794396 497.6152977730299, 604.3708403662818 326.0833132391949)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (570, 410)
+Slope = 12.8309028232
+Paired points =  [[(638, 230), (624, 271)], [(275, 65), (374, 239)]]
+All paired : [[(638, 230), (624, 271), (447, 789.35714285714312)], [(275, 65), (374, 239), (447, 367.30303030303031)]]
+Radius =  66.8430998683
+MULTIPOINT (546.7946545451097 497.1013688321789, 604.9385668710569 326.8227684490476)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (406, 256)
+Slope = 57.3602186523
+Paired points =  [[(224, 290), (244, 276)], [(638, 233), (556, 399)], [(226, 126), (258, 153)], [(286, 60), (310, 100)], [(449, 57), (447, 88)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (429, 256)
+Slope = 51.1961293508
+Paired points =  [[(239, 284), (259, 270)], [(638, 250), (564, 403)], [(240, 111), (276, 142)], [(484, 48), (480, 82)], [(309, 42), (334, 88)], [(381, 27), (398, 70)]]
+All paired : [[(239, 284), (259, 270), (528, 81.699999999999989)], [(638, 250), (564, 403), (528, 477.43243243243251)], [(240, 111), (276, 142), (528, 359.0)], [(484, 48), (480, 82), (528, -326.0)], [(309, 42), (334, 88), (528, 444.96000000000004)], [(381, 27), (398, 70), (528, 398.82352941176475)]]
+Radius =  82.0
+MULTIPOINT (322.6755344667719 225.4271258732597, 436.6088582350961 145.6737992354327)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (440, 252)
+Slope = 49.9950861061
+Paired points =  [[(638, 258), (569, 407)], [(255, 282), (267, 268)], [(250, 107), (283, 133)], [(503, 39), (498, 73)], [(324, 29), (344, 75)], [(398, 14), (411, 56)]]
+All paired : [[(638, 258), (569, 407), (545, 458.82608695652152)], [(255, 282), (267, 268), (545, -56.333333333333371)], [(250, 107), (283, 133), (545, 339.42424242424238)], [(503, 39), (498, 73), (545, -246.59999999999991)], [(324, 29), (344, 75), (545, 537.30000000000007)], [(398, 14), (411, 56), (545, 488.92307692307691)]]
+Radius =  84.7584804017
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (440, 251)
+Slope = 49.4999908921
+Paired points =  [[(638, 257), (569, 406)], [(255, 281), (267, 266)], [(251, 103), (284, 131)], [(505, 38), (500, 72)], [(324, 29), (345, 73)], [(400, 13), (412, 55)]]
+All paired : [[(638, 257), (569, 406), (546, 455.66666666666652)], [(255, 281), (267, 266), (546, -82.75)], [(251, 103), (284, 131), (546, 353.30303030303037)], [(505, 38), (500, 72), (546, -240.79999999999973)], [(324, 29), (345, 73), (546, 494.14285714285711)], [(400, 13), (412, 55), (546, 524.0)]]
+Radius =  85.0058821494
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (440, 255)
+Slope = 49.7681652073
+Paired points =  [[(638, 260), (569, 408)], [(257, 283), (268, 269)], [(251, 106), (285, 134)], [(505, 42), (499, 76)], [(326, 31), (345, 77)], [(399, 17), (412, 60)]]
+All paired : [[(638, 260), (569, 408), (545, 459.47826086956525)], [(257, 283), (268, 269), (545, -83.545454545454618)], [(251, 106), (285, 134), (545, 348.11764705882354)], [(505, 42), (499, 76), (545, -184.66666666666652)], [(326, 31), (345, 77), (545, 561.21052631578937)], [(399, 17), (412, 60), (545, 499.92307692307691)]]
+Radius =  84.693565281
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (441, 256)
+Slope = 50.8113140355
+Paired points =  [[(638, 268), (569, 409)], [(258, 285), (270, 271)], [(253, 108), (287, 136)], [(504, 44), (501, 79)], [(326, 35), (347, 80)], [(400, 20), (414, 62)]]
+All paired : [[(638, 268), (569, 409), (543, 462.13043478260875)], [(258, 285), (270, 271), (543, -47.5)], [(253, 108), (287, 136), (543, 346.82352941176464)], [(504, 44), (501, 79), (543, -411.0)], [(326, 35), (347, 80), (543, 499.99999999999989)], [(400, 20), (414, 62), (543, 449.0)]]
+Radius =  84.0238061504
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (442, 255)
+Slope = 50.8113140355
+Paired points =  [[(638, 264), (569, 409)], [(258, 283), (271, 269)], [(254, 106), (288, 135)], [(505, 43), (502, 78)], [(327, 34), (348, 79)], [(402, 19), (415, 61)]]
+All paired : [[(638, 264), (569, 409), (544, 461.536231884058)], [(258, 283), (271, 269), (544, -25.0)], [(254, 106), (288, 135), (544, 353.35294117647061)], [(505, 43), (502, 78), (544, -412.0)], [(327, 34), (348, 79), (544, 499.00000000000011)], [(402, 19), (415, 61), (544, 477.76923076923094)]]
+Radius =  84.1486779456
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (442, 254)
+Slope = 50.2650259114
+Paired points =  [[(638, 262), (569, 408)], [(258, 283), (270, 269)], [(254, 107), (287, 134)], [(506, 43), (502, 76)], [(328, 33), (348, 77)], [(403, 18), (415, 60)]]
+All paired : [[(638, 262), (569, 408), (546, 456.66666666666674)], [(258, 283), (270, 269), (546, -53.0)], [(254, 107), (287, 134), (546, 345.90909090909088)], [(506, 43), (502, 76), (546, -287.0)], [(328, 33), (348, 77), (546, 512.60000000000002)], [(403, 18), (415, 60), (546, 518.5)]]
+Radius =  84.6463230152
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (441, 255)
+Slope = 50.8113140355
+Paired points =  [[(638, 263), (569, 408)], [(247, 274), (270, 270)], [(254, 108), (287, 136)], [(505, 44), (502, 78)], [(329, 34), (348, 79)], [(402, 20), (415, 62)]]
+All paired : [[(638, 263), (569, 408), (543, 462.63768115942025)], [(247, 274), (270, 270), (543, 222.52173913043478)], [(254, 108), (287, 136), (543, 353.21212121212125)], [(505, 44), (502, 78), (543, -386.66666666666606)], [(329, 34), (348, 79), (543, 540.84210526315792)], [(402, 20), (415, 62), (543, 475.53846153846166)]]
+Radius =  84.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (441, 255)
+Slope = 50.3109522581
+Paired points =  [[(638, 260), (569, 408)], [(258, 283), (270, 269)], [(254, 107), (287, 135)], [(505, 44), (501, 78)], [(328, 34), (348, 79)], [(401, 20), (414, 62)]]
+All paired : [[(638, 260), (569, 408), (544, 461.62318840579724)], [(258, 283), (270, 269), (544, -50.666666666666742)], [(254, 107), (287, 135), (544, 353.06060606060601)], [(505, 44), (501, 78), (544, -287.5)], [(328, 34), (348, 79), (544, 520.0)], [(401, 20), (414, 62), (544, 482.0)]]
+Radius =  84.0951841665
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (441, 255)
+Slope = 49.8097811244
+Paired points =  [[(638, 256), (569, 407)], [(258, 283), (269, 269)], [(254, 108), (287, 135)], [(504, 44), (500, 77)], [(328, 35), (347, 79)], [(401, 20), (413, 61)]]
+All paired : [[(638, 256), (569, 407), (545, 459.52173913043475)], [(258, 283), (269, 269), (545, -82.272727272727252)], [(254, 108), (287, 135), (545, 346.09090909090912)], [(504, 44), (500, 77), (545, -294.25)], [(328, 35), (347, 79), (545, 537.52631578947376)], [(401, 20), (413, 61), (545, 512.0)]]
+Radius =  84.403791384
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (441, 256)
+Slope = 49.5789023698
+Paired points =  [[(638, 256), (570, 407)], [(259, 284), (271, 270)], [(256, 113), (287, 139)], [(501, 47), (498, 80)], [(329, 40), (347, 83)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (531, 406)
+Slope = 57.4940798903
+Paired points =  [[(638, 250), (627, 288)], [(504, 51), (407, 203)]]
+All paired : [[(638, 250), (627, 288), (457, 875.27272727272725)], [(504, 51), (407, 203), (457, 124.64948453608247)]]
+Radius =  70.8801805867
+MULTIPOINT (567.2089565530657 494.5508773621367, 608.8853381671532 350.5779226952886)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (546, 404)
+Slope = 54.0603760057
+Paired points =  [[(638, 246), (628, 275)], [(507, 52), (412, 205)]]
+All paired : [[(638, 246), (628, 275), (464, 750.59999999999991)], [(507, 52), (412, 205), (464, 121.25263157894733)]]
+Radius =  71.700767081
+MULTIPOINT (550.2106273440174 500.5891807023493, 608.86346861223 330.4959410245328)
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (450, 258)
+Slope = 45.2798849965
+Paired points =  [[(269, 285), (281, 272)], [(638, 233), (574, 406)], [(267, 116), (297, 142)], [(509, 51), (507, 83)], [(338, 45), (356, 86)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (449, 259)
+Slope = 48.0637658499
+Paired points =  [[(269, 286), (280, 272)], [(638, 252), (573, 409)], [(266, 116), (296, 142)], [(509, 51), (506, 83)], [(336, 45), (355, 87)], [(408, 29), (420, 68)]]
+All paired : [[(269, 286), (280, 272), (556, -79.272727272727252)], [(638, 252), (573, 409), (556, 450.06153846153848)], [(266, 116), (296, 142), (556, 367.33333333333337)], [(509, 51), (506, 83), (556, -450.33333333333303)], [(336, 45), (355, 87), (556, 531.31578947368428)], [(408, 29), (420, 68), (556, 510.0)]]
+Radius =  84.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (451, 260)
+Slope = 49.8097811244
+Paired points =  [[(638, 256), (573, 412)], [(270, 287), (282, 273)], [(266, 118), (297, 142)], [(512, 52), (507, 84)], [(337, 45), (356, 87)], [(410, 29), (421, 69)]]
+All paired : [[(638, 256), (573, 412), (555, 455.20000000000005)], [(270, 287), (282, 273), (555, -45.5)], [(266, 118), (297, 142), (555, 341.74193548387098)], [(512, 52), (507, 84), (555, -223.19999999999982)], [(337, 45), (356, 87), (555, 526.8947368421052)], [(410, 29), (421, 69), (555, 556.27272727272725)]]
+Radius =  83.8152730712
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (454, 261)
+Slope = 49.8097811244
+Paired points =  [[(638, 280), (574, 415)], [(272, 286), (285, 272)], [(270, 116), (300, 141)], [(514, 51), (511, 84)], [(340, 44), (360, 87)], [(414, 28), (425, 69)]]
+All paired : [[(638, 280), (574, 415), (558, 448.75)], [(272, 286), (285, 272), (558, -22.0)], [(270, 116), (300, 141), (558, 356.0)], [(514, 51), (511, 84), (558, -433.0)], [(340, 44), (360, 87), (558, 512.70000000000005)], [(414, 28), (425, 69), (558, 564.72727272727252)]]
+Radius =  84.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (456, 261)
+Slope = 53.2984187148
+Paired points =  [[(638, 289), (573, 419)], [(277, 287), (287, 272)], [(275, 114), (303, 141)], [(515, 52), (514, 85)], [(345, 44), (363, 88)], [(417, 29), (428, 69)]]
+All paired : [[(638, 289), (573, 419), (553, 459.0)], [(277, 287), (287, 272), (553, -127.0)], [(275, 114), (303, 141), (553, 382.07142857142856)], [(515, 52), (514, 85), (553, -1202.0)], [(345, 44), (363, 88), (553, 552.44444444444446)], [(417, 29), (428, 69), (553, 523.5454545454545)]]
+Radius =  84.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (457, 262)
+Slope = 54.3659561991
+Paired points =  [[(638, 291), (573, 420)], [(275, 287), (288, 274)], [(275, 119), (305, 144)], [(518, 55), (514, 87)], [(345, 47), (363, 90)], [(417, 32), (428, 72)]]
+All paired : [[(638, 291), (573, 420), (551, 463.66153846153838)], [(275, 287), (288, 274), (551, 11.0)], [(275, 119), (305, 144), (551, 349.0)], [(518, 55), (514, 87), (551, -209.0)], [(345, 47), (363, 90), (551, 539.1111111111112)], [(417, 32), (428, 72), (551, 519.27272727272725)]]
+Radius =  83.3846508657
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (455, 262)
+Slope = 63.7778246515
+Paired points =  [[(638, 305), (571, 422)], [(273, 288), (287, 275)], [(275, 117), (303, 144)], [(517, 56), (513, 88)], [(344, 48), (362, 91)], [(415, 33), (427, 73)]]
+All paired : [[(638, 305), (571, 422), (528, 497.08955223880605)], [(273, 288), (287, 275), (528, 51.214285714285722)], [(275, 117), (303, 144), (528, 360.96428571428572)], [(517, 56), (513, 88), (528, -32.0)], [(344, 48), (362, 91), (528, 487.55555555555554)], [(415, 33), (427, 73), (528, 409.66666666666652)]]
+Radius =  83.0240928888
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (454, 261)
+Slope = 64.5399235179
+Paired points =  [[(638, 312), (569, 426)], [(271, 287), (285, 274)], [(273, 123), (301, 143)], [(514, 54), (511, 85)], [(342, 47), (360, 89)], [(414, 32), (425, 70)]]
+All paired : [[(638, 312), (569, 426), (526, 497.04347826086962)], [(271, 287), (285, 274), (526, 50.214285714285666)], [(273, 123), (301, 143), (526, 303.71428571428572)], [(514, 54), (511, 85), (526, -70.0)], [(342, 47), (360, 89), (526, 476.33333333333348)], [(414, 32), (425, 70), (526, 418.90909090909076)]]
+Radius =  83.8152730712
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (454, 259)
+Slope = 64.5399235179
+Paired points =  [[(638, 325), (566, 430)], [(270, 286), (284, 273)], [(273, 113), (301, 141)], [(515, 52), (511, 83)], [(342, 44), (359, 87)], [(414, 29), (424, 68)]]
+All paired : [[(638, 325), (566, 430), (526, 488.33333333333326)], [(270, 286), (284, 273), (526, 48.285714285714334)], [(273, 113), (301, 141), (526, 366.0)], [(515, 52), (511, 83), (526, -33.25)], [(342, 44), (359, 87), (526, 509.41176470588243)], [(414, 29), (424, 68), (526, 465.80000000000018)]]
+Radius =  83.8152730712
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (453, 259)
+Slope = 64.2314098713
+Paired points =  [[(638, 372), (560, 435)], [(263, 286), (283, 273)], [(272, 120), (301, 142)], [(514, 51), (510, 83)], [(339, 45), (359, 87)], [(411, 29), (424, 68)]]
+All paired : [[(638, 372), (560, 435), (526, 462.4615384615384)], [(263, 286), (283, 273), (526, 115.05000000000001)], [(272, 120), (301, 142), (526, 312.68965517241384)], [(514, 51), (510, 83), (526, -45.0)], [(339, 45), (359, 87), (526, 437.70000000000016)], [(411, 29), (424, 68), (526, 374.0)]]
+Radius =  84.0059521701
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (451, 259)
+Slope = 64.2314098713
+Paired points =  [[(638, 381), (557, 437)], [(259, 287), (281, 273)], [(270, 120), (299, 142)], [(514, 51), (509, 83)], [(340, 43), (357, 87)], [(412, 28), (423, 68)]]
+All paired : [[(638, 381), (557, 437), (524, 459.81481481481478)], [(259, 287), (281, 273), (524, 118.36363636363637)], [(270, 120), (299, 142), (524, 312.68965517241384)], [(514, 51), (509, 83), (524, -13.0)], [(340, 43), (357, 87), (524, 519.23529411764707)], [(412, 28), (423, 68), (524, 435.27272727272725)]]
+Radius =  84.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (449, 258)
+Slope = 64.2314098713
+Paired points =  [[(638, 380), (553, 437)], [(264, 285), (279, 272)], [(269, 111), (297, 141)], [(510, 50), (507, 82)], [(337, 43), (355, 86)], [(408, 28), (420, 67)]]
+All paired : [[(638, 380), (553, 437), (522, 457.78823529411761)], [(264, 285), (279, 272), (522, 61.39999999999992)], [(269, 111), (297, 141), (522, 382.0714285714285)], [(510, 50), (507, 82), (522, -78.0)], [(337, 43), (355, 86), (522, 484.94444444444446)], [(408, 28), (420, 67), (522, 398.5)]]
+Radius =  84.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (447, 258)
+Slope = 64.2314098713
+Paired points =  [[(638, 394), (551, 437)], [(255, 286), (277, 272)], [(266, 110), (295, 141)], [(507, 49), (504, 81)], [(335, 42), (353, 86)], [(406, 27), (418, 67)]]
+All paired : [[(638, 394), (551, 437), (520, 452.32183908045971)], [(255, 286), (277, 272), (520, 117.36363636363637)], [(266, 110), (295, 141), (520, 381.51724137931035)], [(507, 49), (504, 81), (520, -89.66666666666606)], [(335, 42), (353, 86), (520, 494.2222222222224)], [(406, 27), (418, 67), (520, 407.0)]]
+Radius =  84.0238061504
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (445, 257)
+Slope = 64.0818439869
+Paired points =  [[(638, 383), (551, 436)], [(262, 285), (275, 272)], [(264, 110), (293, 140)], [(505, 48), (503, 81)], [(333, 41), (351, 85)], [(404, 26), (416, 66)]]
+All paired : [[(638, 383), (551, 436), (518, 456.10344827586215)], [(262, 285), (275, 272), (518, 29.0)], [(264, 110), (293, 140), (518, 372.75862068965523)], [(505, 48), (503, 81), (518, -166.5)], [(333, 41), (351, 85), (518, 493.22222222222229)], [(404, 26), (416, 66), (518, 406.0)]]
+Radius =  84.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (446, 256)
+Slope = 64.3793786165
+Paired points =  [[(638, 375), (554, 436)], [(258, 283), (275, 270)], [(264, 110), (292, 137)], [(505, 46), (503, 79)], [(332, 40), (351, 83)], [(405, 24), (417, 64)]]
+All paired : [[(638, 375), (554, 436), (519, 461.41666666666674)], [(258, 283), (275, 270), (519, 83.41176470588232)], [(264, 110), (292, 137), (519, 355.89285714285711)], [(505, 46), (503, 79), (519, -185.0)], [(332, 40), (351, 83), (519, 463.21052631578948)], [(405, 24), (417, 64), (519, 404.0)]]
+Radius =  84.3089556334
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (446, 256)
+Slope = 64.3793786165
+Paired points =  [[(638, 327), (561, 431)], [(254, 285), (275, 271)], [(263, 110), (293, 139)], [(508, 47), (504, 79)], [(334, 39), (351, 83)], [(406, 24), (417, 64)]]
+All paired : [[(638, 327), (561, 431), (519, 487.72727272727275)], [(254, 285), (275, 271), (519, 108.33333333333331)], [(263, 110), (293, 139), (519, 357.46666666666664)], [(508, 47), (504, 79), (519, -41.0)], [(334, 39), (351, 83), (519, 517.82352941176464)], [(406, 24), (417, 64), (519, 434.90909090909099)]]
+Radius =  84.5044377533
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (446, 256)
+Slope = 64.2314098713
+Paired points =  [[(638, 321), (563, 427)], [(254, 284), (275, 271)], [(263, 109), (293, 139)], [(508, 47), (503, 79)], [(333, 39), (351, 84)], [(405, 24), (417, 64)]]
+All paired : [[(638, 321), (563, 427), (519, 489.18666666666672)], [(254, 284), (275, 271), (519, 119.95238095238096)], [(263, 109), (293, 139), (519, 365.0)], [(508, 47), (503, 79), (519, -23.400000000000091)], [(333, 39), (351, 84), (519, 504.0)], [(405, 24), (417, 64), (519, 404.0)]]
+Radius =  84.1189633793
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (446, 256)
+Slope = 63.7736709785
+Paired points =  [[(638, 301), (566, 422)], [(260, 283), (276, 270)], [(264, 108), (293, 136)], [(509, 46), (504, 79)], [(332, 39), (352, 83)], [(406, 23), (417, 64)]]
+All paired : [[(638, 301), (566, 422), (520, 499.30555555555566)], [(260, 283), (276, 270), (520, 71.75)], [(264, 108), (293, 136), (520, 355.17241379310349)], [(509, 46), (504, 79), (520, -26.600000000000364)], [(332, 39), (352, 83), (520, 452.59999999999991)], [(406, 23), (417, 64), (520, 447.90909090909076)]]
+Radius =  84.0535543567
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (445, 256)
+Slope = 57.2938192526
+Paired points =  [[(638, 288), (568, 418)], [(259, 283), (274, 270)], [(263, 108), (291, 136)], [(509, 46), (504, 78)], [(333, 38), (350, 82)], [(405, 23), (416, 63)]]
+All paired : [[(638, 288), (568, 418), (535, 479.28571428571433)], [(259, 283), (274, 270), (535, 43.800000000000011)], [(263, 108), (291, 136), (535, 380.0)], [(509, 46), (504, 78), (535, -120.39999999999964)], [(333, 38), (350, 82), (535, 560.82352941176475)], [(405, 23), (416, 63), (535, 495.72727272727275)]]
+Radius =  85.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (443, 254)
+Slope = 51.9673286497
+Paired points =  [[(638, 280), (569, 411)], [(254, 282), (272, 270)], [(261, 106), (289, 134)], [(505, 44), (502, 76)], [(330, 37), (348, 80)], [(402, 22), (414, 61)]]
+All paired : [[(638, 280), (569, 411), (544, 458.463768115942)], [(254, 282), (272, 270), (544, 88.666666666666686)], [(261, 106), (289, 134), (544, 389.0)], [(505, 44), (502, 76), (544, -372.0)], [(330, 37), (348, 80), (544, 548.22222222222206)], [(402, 22), (414, 61), (544, 483.5)]]
+Radius =  85.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (444, 254)
+Slope = 49.9950861061
+Paired points =  [[(638, 249), (571, 409)], [(261, 108), (289, 134)], [(507, 44), (503, 76)], [(331, 36), (349, 80)], [(404, 21), (415, 61)]]
+All paired : [[(638, 249), (571, 409), (549, 461.53731343283562)], [(261, 108), (289, 134), (549, 375.42857142857144)], [(507, 44), (503, 76), (549, -292.0)], [(331, 36), (349, 80), (549, 568.8888888888888)], [(404, 21), (415, 61), (549, 548.27272727272725)]]
+Radius =  85.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (445, 254)
+Slope = 51.5317510473
+Paired points =  [[(638, 253), (570, 410)], [(261, 282), (276, 269)], [(263, 113), (292, 134)], [(510, 44), (505, 77)], [(332, 36), (351, 81)], [(405, 21), (417, 62)]]
+All paired : [[(638, 253), (570, 410), (546, 465.41176470588243)], [(261, 282), (276, 269), (546, 35.000000000000057)], [(263, 113), (292, 134), (546, 317.93103448275866)], [(510, 44), (505, 77), (546, -193.59999999999991)], [(332, 36), (351, 81), (546, 542.84210526315792)], [(405, 21), (417, 62), (546, 502.75)]]
+Radius =  84.0951841665
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (446, 255)
+Slope = 52.1819955828
+Paired points =  [[(638, 290), (570, 413)], [(251, 286), (271, 271)], [(265, 106), (293, 135)], [(511, 45), (506, 77)], [(332, 38), (352, 81)], [(406, 22), (418, 62)]]
+All paired : [[(638, 290), (570, 413), (547, 454.60294117647061)], [(251, 286), (271, 271), (547, 64.0)], [(265, 106), (293, 135), (547, 398.07142857142861)], [(511, 45), (506, 77), (547, -185.40000000000009)], [(332, 38), (352, 81), (547, 500.25)], [(406, 22), (418, 62), (547, 492.0)]]
+Radius =  85.0058821494
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (445, 254)
+Slope = 51.2027587992
+Paired points =  [[(638, 273), (570, 411)], [(250, 286), (270, 271)], [(264, 106), (291, 134)], [(510, 45), (505, 77)], [(333, 37), (351, 80)], [(405, 22), (417, 61)]]
+All paired : [[(638, 273), (570, 411), (548, 455.64705882352951)], [(250, 286), (270, 271), (548, 62.5)], [(264, 106), (291, 134), (548, 400.51851851851853)], [(510, 45), (505, 77), (548, -198.20000000000027)], [(333, 37), (351, 80), (548, 550.61111111111109)], [(405, 22), (417, 61), (548, 486.75)]]
+Radius =  85.0058821494
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (444, 253)
+Slope = 50.9829773115
+Paired points =  [[(638, 264), (570, 410)], [(249, 285), (268, 270)], [(263, 105), (291, 135)], [(508, 43), (504, 75)], [(331, 36), (350, 79)], [(404, 21), (416, 60)]]
+All paired : [[(638, 264), (570, 410), (547, 459.38235294117635)], [(249, 285), (268, 270), (547, 49.736842105263122)], [(263, 105), (291, 135), (547, 409.28571428571428)], [(508, 43), (504, 75), (547, -269.0)], [(331, 36), (350, 79), (547, 524.8421052631578)], [(404, 21), (416, 60), (547, 485.75)]]
+Radius =  85.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (444, 252)
+Slope = 51.4756306548
+Paired points =  [[(638, 252), (570, 409)], [(249, 285), (269, 270)], [(263, 105), (291, 135)], [(506, 42), (503, 74)], [(330, 37), (350, 79)], [(405, 20), (415, 59)]]
+All paired : [[(638, 252), (570, 409), (546, 464.41176470588243)], [(249, 285), (269, 270), (546, 62.25)], [(263, 105), (291, 135), (546, 408.21428571428572)], [(506, 42), (503, 74), (546, -384.66666666666697)], [(330, 37), (350, 79), (546, 490.60000000000014)], [(405, 20), (415, 59), (546, 569.90000000000009)]]
+Radius =  84.7584804017
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (443, 253)
+Slope = 50.0826382958
+Paired points =  [[(638, 254), (570, 407)], [(254, 282), (273, 269)], [(262, 106), (290, 134)], [(507, 43), (503, 76)], [(329, 38), (349, 80)], [(403, 21), (415, 61)]]
+All paired : [[(638, 254), (570, 407), (546, 461.0)], [(254, 282), (273, 269), (546, 82.21052631578948)], [(262, 106), (290, 134), (546, 390.0)], [(507, 43), (503, 76), (546, -278.75)], [(329, 38), (349, 80), (546, 493.70000000000016)], [(403, 21), (415, 61), (546, 497.66666666666652)]]
+Radius =  84.0238061504
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (444, 255)
+Slope = 50.3109522581
+Paired points =  [[(638, 255), (570, 409)], [(262, 284), (275, 270)], [(261, 107), (290, 136)], [(505, 44), (502, 78)], [(330, 38), (349, 82)], [(402, 23), (415, 63)]]
+All paired : [[(638, 255), (570, 409), (547, 461.08823529411757)], [(262, 284), (275, 270), (547, -22.923076923076906)], [(261, 107), (290, 136), (547, 393.0)], [(505, 44), (502, 78), (547, -432.0)], [(330, 38), (349, 82), (547, 540.52631578947364)], [(402, 23), (415, 63), (547, 469.15384615384619)]]
+Radius =  84.1189633793
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (445, 255)
+Slope = 56.1458058747
+Paired points =  [[(638, 296), (568, 416)], [(262, 121), (291, 135)], [(508, 45), (503, 78)], [(332, 37), (350, 82)], [(405, 22), (416, 63)]]
+All paired : [[(638, 296), (568, 416), (537, 469.142857142857)], [(262, 121), (291, 135), (537, 253.75862068965517)], [(508, 45), (503, 78), (537, -146.40000000000009)], [(332, 37), (350, 82), (537, 549.5)], [(405, 22), (416, 63), (537, 514.0)]]
+Radius =  84.1189633793
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (447, 255)
+Slope = 63.7736709785
+Paired points =  [[(638, 305), (566, 422)], [(260, 110), (293, 136)], [(510, 43), (505, 77)], [(333, 35), (352, 81)], [(407, 20), (418, 62)]]
+All paired : [[(638, 305), (566, 422), (521, 495.125)], [(260, 110), (293, 136), (521, 315.63636363636363)], [(510, 43), (505, 77), (521, -31.799999999999727)], [(333, 35), (352, 81), (521, 490.1578947368422)], [(407, 20), (418, 62), (521, 455.27272727272725)]]
+Radius =  83.8152730712
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (449, 253)
+Slope = 64.3793786165
+Paired points =  [[(638, 341), (561, 430)], [(266, 282), (277, 267)], [(261, 108), (293, 134)], [(511, 41), (508, 75)], [(333, 34), (353, 78)], [(409, 18), (420, 59)]]
+All paired : [[(638, 341), (561, 430), (522, 475.07792207792215)], [(266, 282), (277, 267), (522, -67.090909090909008)], [(261, 108), (293, 134), (522, 320.0625)], [(511, 41), (508, 75), (522, -83.66666666666606)], [(333, 34), (353, 78), (522, 449.80000000000007)], [(409, 18), (420, 59), (522, 439.18181818181824)]]
+Radius =  84.4334057112
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (453, 253)
+Slope = 63.46712395
+Paired points =  [[(638, 384), (560, 433)], [(268, 109), (299, 133)], [(509, 40), (508, 75)], [(341, 32), (361, 78)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (460, 260)
+Slope = 61.2054754794
+Paired points =  [[(638, 425), (565, 436)], [(294, 111), (318, 141)], [(501, 44), (501, 77)], [(357, 34), (376, 84)], None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (497, 318)
+Slope = 49.9045732749
+Paired points =  [[(638, 431), (578, 442)], [(373, 319), (402, 222)]]
+All paired : [[(638, 431), (578, 442), (422, 470.60000000000002)], [(373, 319), (402, 222), (422, 155.10344827586209)]]
+Radius =  62.9325035256
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (465, 368)
+Slope = 29.8351977392
+Paired points =  [None]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (562, 407)
+Slope = 8.07102339469
+Paired points =  [None, [(529, 1), (602, 138)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (559, 380)
+Slope = -79.6028799166
+Paired points =  [[(456, 1), (581, 110)]]
+All paired : [[(456, 1), (581, 110), (587, 115.23199999999997)]]
+Radius =  77.1751255263
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (561, 378)
+Slope = -80.0103485172
+Paired points =  [None, [(462, 1), (576, 109)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (561, 385)
+Slope = -79.5629114093
+Paired points =  [None, [(425, 1), (575, 111)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (560, 397)
+Slope = -79.8364999814
+Paired points =  [[(414, 1), (566, 111)]]
+All paired : [[(414, 1), (566, 111), (587, 126.19736842105266)]]
+Radius =  76.2758153021
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (556, 387)
+Slope = -81.6975255797
+Paired points =  [None, [(394, 1), (552, 109)]]
+EXCEPTION IN (hand.py, LINE 155 "allPaired = pairAll(pairedPoints, wristCenter[0])"): 'NoneType' object has no attribute '__getitem__'
+
+
+
+
+
+
+
+PalmCentre = (538, 105)
+Slope = 79.9470083646
+Paired points =  [[(638, 478), (548, 390)], [(333, 2), (362, 12)]]
+All paired : [[(638, 478), (548, 390), (572, 413.4666666666667)], [(333, 2), (362, 12), (572, 84.413793103448299)]]
+Radius =  96.8736290226
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (504, 140)
+Slope = 78.9836283533
+Paired points =  [[(638, 478), (549, 431)], [(1, 20), (178, 15)]]
+All paired : [[(638, 478), (549, 431), (555, 434.16853932584274)], [(1, 20), (178, 15), (555, 4.3502824858757076)]]
+Radius =  132.608446187
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+
+PalmCentre = (495, 147)
+Slope = 80.8086146729
+Paired points =  [[(638, 478), (543, 443)], [(1, 39), (141, 21)]]
+All paired : [[(638, 478), (543, 443), (541, 442.26315789473688)], [(1, 39), (141, 21), (541, -30.428571428571423)]]
+Radius =  143.0
+GEOMETRYCOLLECTION EMPTY
+EXCEPTION IN (/home/thunderbolt/gitRepos/FingerDetection/Script/required.py, LINE 89 "root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])"): list index out of range
+EXCEPTION IN (hand.py, LINE 174 "for P in endAndRoot:"): 'NoneType' object is not iterable
+
+
+
+
+
+
+

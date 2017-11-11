@@ -36,20 +36,22 @@ def maxCont(contours):
 	return contours[ci]
 
 def pairFingerTipAndCenter(fingerTip, centerList , contourList):
-	paired = []
-	counter = 0
-	for I in centerList:
-		maxDist = 0
-		maxCoOr = None
-		for J in fingerTip:
-			if (cv2.pointPolygonTest(contourList[counter],J,False) == 0):
-				distIJ = distAB(I,J)
-				if(distIJ >= maxDist):
-					maxDist = distIJ
-					maxCoOr = [J , I]
-		paired.append(maxCoOr)
-		counter = counter + 1
-	return paired
+		paired = []
+		counter = 0
+		for I in centerList:
+			maxDist = 0
+			maxCoOr = None
+			for J in fingerTip:
+				if (cv2.pointPolygonTest(contourList[counter],J,False) == 0):
+					distIJ = distAB(I,J)
+					if(distIJ >= maxDist):
+						maxDist = distIJ
+						maxCoOr = [J , I]
+			paired.append(maxCoOr)
+			counter = counter + 1
+		return paired
+
+
 
 def contourCenter(cont):
 	for I in cont:
@@ -75,17 +77,22 @@ def pairAll(pairedPoints, x):
 def findRoot(pairedPoints , palmCentre , radius):
 	counter =0
 	pair = []
-	for I in pairedPoints:
-		p = Point(palmCentre[0],palmCentre[1])
-		c = p.buffer(radius).boundary
-		l = LineString([I[0],I[2]])
-		i = c.intersection(l)
-		root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])
-		pairs = [I[0],root]
-		pair.append(pairs)
-		counter = counter + 1
-	return pair
-
+	try:
+		for I in pairedPoints:
+			if I == None:
+				continue
+			p = Point(palmCentre[0],palmCentre[1])
+			c = p.buffer(radius).boundary
+			l = LineString([I[0],I[2]])
+			i = c.intersection(l)
+			print i
+			root = (i.geoms[0].coords[0][0],i.geoms[0].coords[0][1])
+			pairs = [I[0],root]
+			pair.append(pairs)
+			counter = counter + 1
+		return pair
+	except:
+		PrintException()
 		
 
 
