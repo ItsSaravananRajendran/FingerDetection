@@ -15,7 +15,7 @@ cv2.namedWindow('drawing',cv2.WINDOW_NORMAL)
 cv2.namedWindow('input',cv2.WINDOW_NORMAL)
 cv2.namedWindow('fingerContour',cv2.WINDOW_NORMAL)
 cv2.namedWindow('drawingContour',cv2.WINDOW_NORMAL)
-
+cv2.namedWindow('final',cv2.WINDOW_NORMAL)
 
 
 kernel = np.ones((9,9),np.uint8)
@@ -27,17 +27,12 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 #while( True ):
 imr = '../Dataset/2.jpg'
 img = cv2.imread(imr,1) 
-h, w = img.shape[:2] 
-print h 
-print w
+h, w = img.shape[:2]
 #ret , img = cap.read()                       #reading the frames
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 blur = cv2.GaussianBlur(gray,(5,5),0)
 ret,handThresh = cv2.threshold(blur,0,255,cv2.THRESH_BINARY_INV+cv2.THRESH_OTSU)
-#handThresh = cv2.morphologyEx(handThresh, cv2.MORPH_CLOSE, kernel)
-#handThresh = cv2.dilate(handThresh,kernel,iterations = 5)
-#handThresh = cv2.erode(handThresh,kernel,iterations = 5)
-#handThresh = cv2.morphologyEx(handThresh, cv2.MORPH_CLOSE, kernel)
+
 handThreshCopy = np.copy(handThresh)
 _ ,contours, hierarchy = cv2.findContours(handThresh,cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
 cnt = maxCont(contours)
@@ -46,27 +41,40 @@ drawing = np.zeros(img.shape,np.uint8)
 drawingContour = np.zeros(img.shape,np.uint8)
 cv2.drawContours(drawingContour,[cnt],0,(255,255,0),-2)
 cv2.imshow('drawingContour',drawingContour)
+
+grayImg = cv2.cvtColor(drawingContour, cv2.COLOR_BGR2GRAY)
+blurimg = cv2.GaussianBlur(grayImg,(5,5),0)
+ret,handThresh = cv2.threshold(blurimg,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+handThreshCopy = np.copy(handThresh)
+_ ,contours, hierarchy = cv2.findContours(handThresh,cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
+cnt = maxCont(contours)
+hull = cv2.convexHull(cnt)
+
+
 dist, labels = cv2.distanceTransformWithLabels(handThresh, cv2.DIST_L2, 5)
-dtHand = np.uint8(dist*.65)
-print dtHand.max()
+inRange = .50
+dtHand = np.uint8(dist*inRange)
+
+
 cv2.imshow('distanceTransform',dtHand)
-#dtHand = np.uint8(dist*3)
+
 segmentMask = np.uint8(dist)
 wristMask = np.copy(segmentMask)
 segmentMask[:] = 255
 wristMask[:]=0
-ret1,palmPointThresh = cv2.threshold(dtHand,dtHand.max() - 15,dtHand.max(),cv2.THRESH_BINARY)
+ret1,palmPointThresh = cv2.threshold(dtHand,dtHand.max() - 15*inRange,dtHand.max(),cv2.THRESH_BINARY)
 im1 , palm , hierarchyPalm = cv2.findContours(palmPointThresh, cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
 try:
 	palmCentre  = contourCenter(palm)
+	print "PalmCentre = "+str(palmCentre)
 	radius = cv2.pointPolygonTest(cnt,palmCentre,True)
 	if(radius < 400 and radius > 0):	
 		#segmentation of finger and wrist line 
 		cv2.circle(img,palmCentre,int(radius*1.38),[0,255,0],2)
 		cv2.circle(img,palmCentre,int(radius*1.8),[0,255,0],2)
-		cv2.circle(segmentMask,palmCentre,int(radius*1.35),[0,0,0],-1)
-		cv2.circle(wristMask,palmCentre,int(radius*1.55),[255,255,255],-1)  #outer circle
-		cv2.circle(wristMask,palmCentre,int(radius*1.35),[0,0,0],-1) #inner circle
+		cv2.circle(segmentMask,palmCentre,int(radius*1.9),[0,0,0],-1)
+		cv2.circle(wristMask,palmCentre,int(radius*2.2),[255,255,255],-1)  #outer circle
+		cv2.circle(wristMask,palmCentre,int(radius*1.9),[0,0,0],-1) #inner circle
 		wristMask = cv2.bitwise_and(handThreshCopy , handThreshCopy , mask = wristMask)
 		#wristMask = cv2.erode(wristMask,kernel,iterations = 15)
 		segmentedFinger = cv2.bitwise_and(handThreshCopy , handThreshCopy ,mask = segmentMask)
@@ -95,7 +103,7 @@ try:
 		cv2.drawContours(drawing,[cnt],0,(0,255,0),2)
 		cv2.drawContours(drawing,[hull],0,(0,0,255),2)
 		cv2.drawContours(drawing,[palm[0]],0,(0,255,0),2)
-
+		cv2.imshow("final",drawing)
 	
 	hull = cv2.convexHull(cnt,returnPoints = False)
 	defects = cv2.convexityDefects(cnt,hull)
@@ -119,11 +127,11 @@ try:
 	K = "1"
 	centerList = []
 	contourList = []
-	print HS
+	print "Slope = " +str(HS)
 
 	for j in fingerContour:
 		area = cv2.contourArea(j)
-		if area > 20000 and area < 100000 :
+		if area > 2000 and area < 100000 :
 			FingerCont = cv2.moments(j,False)
 			cx = int(FingerCont['m10']/FingerCont['m00'])
 			cy = int(FingerCont['m01']/FingerCont['m00'])
@@ -139,9 +147,6 @@ try:
 	print pairedPoints
 
 
-	if(imr == '2.jpg'):	
-		co = '11111'
-
 	allPaired = pairAll(pairedPoints, wristCenter[0])
 	for I in allPaired:
 		(x,y) = ((int)(I[2][0]),(int)(I[2][1]))
@@ -149,6 +154,8 @@ try:
 		cv2.circle(img,I[0],5,[255,255,255],-1)
 		cv2.circle(img,(x,y),5,[255,255,255],-1)
 
+	print "All paired :",
+	print allPaired
 
 	endAndRoot = findRoot(pairedPoints , palmCentre , radius*1.35)
 
@@ -157,22 +164,23 @@ try:
 		point = ((int)(endAndRoot[counter][1][0]) , (int)(endAndRoot[counter][1][1]))
 		cv2.line(img,endAndRoot[counter][0],point,[0,0,0],2)
 		counter = counter + 1
-
+	print "counter = "+str(counter)
 	
-	if counter == 5:
-		HandLength = distAB(endAndRoot[0][1] , endAndRoot[3][1])
-		
-	#
-	#
-	#
-	#
+
+	#HandLength = distAB(endAndRoot[0][1] , endAndRoot[3][1])
+	HandLength =  cv2.pointPolygonTest(wristCountor,wristCenter,True)
+	print "HandLength = " +str(HandLength) 
+
+
 
 	#fingerPropeties[0] for each countour and 1 RC , 2 TC , 3 distance
 	fingerProperties = []
 	counter = 0
 	for I in fingerContour:
 		area = cv2.contourArea(I)
-		if area > 20000 and area < 1000000 and counter < 5:
+		print "area = "+str(area)
+		print "len = "+str(len(endAndRoot))
+		if area > 2000 and area < 100000 and counter < 5:
 			prop = calcProp(I,HS,endAndRoot , palmCentre ,counter ,HandLength ,img)
 			counter = counter + 1
 			fingerProperties.append(prop)
